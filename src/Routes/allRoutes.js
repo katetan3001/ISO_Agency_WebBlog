@@ -8,6 +8,7 @@ import Blog from '../pages/Blog'
 
 const routes = [
   { path: "/home", component: <Home /> },
+    { path: "/", component: <Home /> },
   { path: "ve-chung-toi", component: <About/> },
   { path: "/dich-vu", component: <Services /> },
   { path: "/danh-muc", component: <Categories/> },
