@@ -10,44 +10,44 @@ export default function FlatLogoSlogan() {
                         <div className="swiper-wrapper">
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-1.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-2.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-3.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-4.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-5.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="slogan-logo">
-                                    
+                                    <a href="#">
                                         <img src="assets/images/logo/logo-slogan-6.png" alt="images"/>
-                                    
+                                    </a>
                                 </div>
                             </div>
                         </div>
