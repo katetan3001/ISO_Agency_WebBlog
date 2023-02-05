@@ -11,7 +11,7 @@ export default function FlatSlider() {
                         <div className="slider-item">
                             <div className="slider-left">
                                 <div className="slider-left-content">
-                                    <h3>Một Chuẩn Mực - Một Lần Đánh Giá</h3>
+                                    <h3>Cùng MasterCert</h3>
                                     <h2>Minh Chứng Giá Trị Khắp Mọi Nơi</h2>
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
@@ -52,8 +52,8 @@ export default function FlatSlider() {
                         <div className="slider-item">
                             <div className="slider-left">
                                 <div className="slider-left-content">
-                                    <h3>Chuyên Gia Chuyên Môn Cao Nhất</h3>
-                                    <h2>An Tâm Đánh Giá Chất Lượng</h2>
+                                    <h3>Tiêu Chuẩn Toàn Cầu</h3>
+                                    <h2>Một Lần Đánh Giá Duy Nhất</h2>
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
                                         <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>

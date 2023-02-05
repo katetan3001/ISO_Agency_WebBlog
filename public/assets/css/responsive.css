@@ -96,13 +96,13 @@
 
   .flat-testimonial .swiper-container.slider-vertical {
     height  : 420px;
+    overflow: hidden;
 }
 
 }
 
 /* Smaller than standard 992 */
 @media only screen and (max-width: 991px) {
-
   .flat-features,
   .flat-about .about-right-content,
   .flat-our-ex,
@@ -131,6 +131,9 @@
   #footer .menu-3 {
     padding: 0;
   }
+  .about-left-content {
+    margin-bottom: 50px;
+  }
 
   .tf-space {
     padding: 60px 0;
@@ -146,6 +149,7 @@
 
   #footer-top .footer-schedule h2 {
     font-size: 27px;
+    margin-right: 20px;
   }
 
   #footer .footer-widgets-nav-menu,
@@ -300,7 +304,6 @@
   #footer-top .footer-schedule {
     justify-content: center;
   }
-
   #footer .menu-1,
   #footer .menu-2,
   .flat-features .features-content-right,
@@ -393,8 +396,7 @@
     flex-wrap: wrap;
   }
 
-  .flat-portfolio .flat-filter-isotope li,
-  #footer .footer-schedule .button-footer {
+  .flat-portfolio .flat-filter-isotope li {
     margin-bottom: 20px;
   }
 
@@ -414,5 +416,18 @@
   #comments .comment-reply-box {
     margin-left: 10%;
 }
+@media only screen and (max-width: 767px) and (min-width: 645px) {
+  .flat-features .features-box  {
+    position: relative;
+    height: 420px;
+  }
+}
+@media only screen and (max-width: 644px) and (min-width: 481px) {
+  .flat-features .features-box  {
+    position: relative;
+    height: 350px;
+  }
+}
   /* ------------------------------------------ */
 }
+

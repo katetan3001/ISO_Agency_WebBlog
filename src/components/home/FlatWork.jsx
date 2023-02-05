@@ -10,7 +10,7 @@ export default function FlatWork() {
             <div className="row">
                 <div className="col-md-6">
                     <div className="section-title wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms">
-                        <NavLink to={'/dich-vu'}><h3 className="section-heading">{'Xem Toàn Bộ Chứng Chỉ - Dịch Vụ >>'}</h3></NavLink>
+                        <NavLink to={'/dich-vu'}><h3 className="section-heading">{'Xem Toàn Bộ Chứng Chỉ >>'}</h3></NavLink>
                         <div className="features-content-left">
                             <h2>Tìm Hiểu Các Dịch Vụ Đào Tạo, Tư Vấn Nổi Bật</h2>
                         </div>

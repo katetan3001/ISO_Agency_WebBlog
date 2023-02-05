@@ -1,4 +1,5 @@
-[
+[{
+"home": [
     {
         "title": "Cam Kết Kim Cương",
         "description": "Hoàn thiện 100% hồ sơ, tài liệu giúp các khách hàng chỉ từ 1 tuần. Cam kết đồng hành với khách hàng đến khi nhận được chứng chỉ",
@@ -17,4 +18,13 @@
         "icon": "icon icon-user",
         "img": "assets/images/image-box/features/features-img-1@2x.png"
     }
+],
+"about": [
+    "Tìm hiểu chi tiết các quy trình, hoạt động, sản phẩm, văn hóa, hệ thống của khách hàng",
+    "Đánh giá chi tiết các điểm đã tuân thủ và chưa tuân thủ với tiêu chuẩn trong toàn bộ phạm vi đánh giá của khách hàng",
+    "Đưa ra tư vấn và cùng khách hàng khắc phục các điểm chưa tuân thủ với tiêu chuẩn để sẵn sàng cho đánh giá lấy chứng chỉ (bao gồm cả việc hoàn thiện hồ sơ về quy trình, quy định, hướng dẫn công việc, các tài liệu bằng chứng trong việc áp dụng tiêu chuẩn, …)",
+    "Đồng hành cùng khách hàng trong suốt quá trình đánh giá cuối cùng (final audit) từ bên chứng nhận",
+    "Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs, ….)",
+    "Hỗ trợ đào tạo nhận thức để đảm bảo duy trì tuân thủ với tiêu chuẩn"
 ]
+}]

@@ -98,8 +98,8 @@ var swiper =  new Swiper(".carousel-3", {
     // slider vertical
 var swiper =  new Swiper(".slider-vertical", {
     direction: 'vertical',
-    spaceBetween: 55,
-    slidesPerView: 3,
+    slidesPerView: 2,
+    spaceBetween: 15,
     centeredSlides: true,
     loop: true,
     navigation: {
@@ -110,6 +110,16 @@ var swiper =  new Swiper(".slider-vertical", {
     pagination: {
         clickable: true,
         el: ".swiper-pagination",
+    },
+    breakpoints: {
+        768: {
+            slidesPerView: 2,
+            spaceBetween: 15, 
+        },
+        1200: {
+            slidesPerView: 3,
+            spaceBetween: 15,
+        },
     },
 
 });

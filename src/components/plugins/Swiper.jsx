@@ -67,7 +67,7 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
             <div className="testimonal-content">
                 <h3>{title}</h3>
                 <p>{description}</p>
-                <p>{'- ' + imgPath + ' -'}</p>
+                <p><b>{imgPath }</b></p>
             </div>
             <div className="testimonal-icon">
                 <span className="icon-tes"></span>

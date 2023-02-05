@@ -11,7 +11,7 @@ export default function FlatFeatures() {
                     <div className="features-content wow fadeInDown" data-wow-delay="0ms"
                         data-wow-duration="1500ms">
                         <div className="section-title">
-                            <h3 className="section-heading">Điều Gì Đặc Biệt Ở Đội Ngũ MasterCert?</h3>
+                            <h3 className="section-heading">Điều Gì Đặc Biệt Ở MasterCert?</h3>
                             <div className="features-content-left">
                                 <h2>Đưa Doanh Nghiệp Của Bạn Lên Một Tầm Cao Mới</h2>
                             </div>
@@ -25,7 +25,7 @@ export default function FlatFeatures() {
                     <div className="swiper-container carousel">
                         <div className="swiper-wrapper">
                             {
-                                features.map((el, i) => i === 1 ? <Swiper 
+                                features[0].home.map((el, i) => i === 1 ? <Swiper 
                                 key={i}
                                 type='features'
                                 title={el.title}

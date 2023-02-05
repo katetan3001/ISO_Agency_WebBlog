@@ -14,7 +14,7 @@ export default function Footer() {
                                 <h2 className="section-40px-barlow font-weight-500">Bạn cần được tư vấn ngay ?</h2>
                             </div>
                             <div className="button-footer">
-                                <a href="contact.html" className="button readmore">Đặt Tư Vấn Miễn Phí</a>
+                                <a href="contact.html" className="button readmore">Chat</a>
                             </div>
                         </div>
                     </div>
@@ -31,8 +31,8 @@ export default function Footer() {
                         <p className="text-widget">Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs, ….)</p>
                         <div className="widget-social">
                             <ul>
-                                <li><a href="#" className="facebook-icon"></a></li>
-                                <li><a href="#" className="linked-icon"></a></li>
+                                <li key={0}><a href="#" className="facebook-icon"></a></li>
+                                <li key={1}><a href="#" className="linked-icon"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -42,33 +42,33 @@ export default function Footer() {
                                 <h3 className="widget-title-link-wrap">Về MasterCert</h3>
                                 <div className="widget-links">
                                     <ul className="link-wrap">
-                                        <li><a><NavLink to={"/ve-chung-toi"}/> Giới Thiệu </a></li>
-                                        <li><a><NavLink to={"/dich-vu"} /> Dịch Vụ </a></li>
-                                        <li><a><NavLink to={"/dich-muc"} /> Danh Mục </a></li>
+                                        <li key={0}><a><NavLink to={"/ve-chung-toi"}/> Giới Thiệu </a></li>
+                                        <li key={1}><a><NavLink to={"/dich-vu"} /> Dịch Vụ </a></li>
+                                        <li key={2}><a><NavLink to={"/dich-muc"} /> Danh Mục </a></li>
                                     </ul>
                                     <ul className="link-wrap">
-                                        <li><a><NavLink to={"/tai-lieu"}/>Tài Liệu</a></li>
-                                        <li><a><NavLink to={"/kien-thuc"} />Kiến Thức</a></li>
-                                        <li><a><NavLink to={"/tin-tuc"} />Tin Tức</a></li>
+                                        <li key={0}><a><NavLink to={"/tai-lieu"}/>Tài Liệu</a></li>
+                                        <li key={1}><a><NavLink to={"/kien-thuc"} />Kiến Thức</a></li>
+                                        <li key={2}><a><NavLink to={"/tin-tuc"} />Tin Tức</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="menu-2">
                                 <h3 className="widget-title-link-wrap">Bài Viết Hữu Ích</h3>
                                 <ul className="link-wrap menu2">
-                                    {company[1].footerBlogs.map((el, i) => <li><a href={el.link}>{el.title}</a></li>)}
+                                    {company[1].footerBlogs.map((el, i) => <li key={i}><a href={el.link}>{el.title}</a></li>)}
                                 </ul>
                             </div>
                             <div className="menu-3">
                                 <h3 className="widget-title-link-wrap style-2">Liên Hệ Văn Phòng</h3>
                                 <ul className="widget-list-contact link-style-4">
-                                    <li>
+                                    <li key={0}>
                                         <span className="meta-address">{company[0].adress}</span>
                                     </li>
-                                    <li><a href={'mailto:' + company[0].email}
+                                    <li key={1}><a href={'mailto:' + company[0].email}
                                             className="meta-mail">{company[0].email}</a>
                                     </li>
-                                    <li><a href={'tel:' + company[0].tel} className="meta-phone">{company[0].tel}</a></li>
+                                    <li key={2}><a href={'tel:' + company[0].tel} className="meta-phone">{company[0].tel}</a></li>
                                 </ul>
                             </div>
                         </div>

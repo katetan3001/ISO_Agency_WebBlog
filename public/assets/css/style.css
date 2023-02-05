@@ -3075,7 +3075,7 @@ a:focus {
 .flat-features .features-content-left,
 .flat-features .features-content-right {
     width  : 50%;
-    display: inline-block;
+    display: block;
     float  : left;
 }
 
@@ -3915,7 +3915,7 @@ a:focus {
 }
 
 .flat-testimonial .swiper-container.slider-vertical {
-    height  : 417px;
+    height  : 480px;
     overflow: hidden;
 }
 
@@ -4273,20 +4273,8 @@ a:focus {
     overflow        : hidden;
 }
 
-.flat-client .client-content-box .client-author {
-    position: relative;
-    display : inline;
-}
-
-.flat-client .client-content-box .client-author img {
-    width        : 144px;
-    height       : 144px;
-    object-fit   : cover;
-    border-radius: 50%;
-    -webkit-border-radius: 50%;
-    -moz-border-radius   : 50%;
-    -ms-border-radius    : 50%;
-    -o-border-radius     : 50%;
+.flat-client .client-content-box p {
+    margin-top: 30px;
 }
 
 .flat-client .client-content-box .mark-client {
