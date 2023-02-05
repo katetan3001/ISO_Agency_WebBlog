@@ -5,35 +5,24 @@ import MainAbout from '../components/about/MainAbout'
 import Features from '../components/about/Features'
 import { NavLink } from 'react-router-dom'
 import FlatLogoSlogan from '../components/home/FlatLogoSlogan'
-import { Helmet } from "react-helmet";
+import useScript from '../useScript'
 
 export default function About() {
+  useScript('assets/js/swiper.js');
   return (
     <>
-        <Helmet>
-          <script src="assets/js/jquery.min.js"></script>
-          <script src="assets/js/wow.min.js"></script>
-          <script src="assets/js/plugin.js"></script>
-          <script src="assets/js/jquery-validate.js"></script>
-          <script src="assets/js/countto.js"></script>
-          <script src="assets/js/jquery.fancybox.js"></script>
-          <script src="assets/js/shortcodes.js"></script>
-          <script src="assets/js/main.js"></script>
-          <script src="assets/js/swiper-bundle.min.js"></script>
-          <script src="assets/js/swiper.js"></script>
-        </Helmet>
         <Header menuItem={1} />
         <section className="flat-title-page parallax parallax-2">
-                <div className="container-fluid">
-                    <div className="row">
-                        <div className="breadcrumbs">
-                            <h2 className="section-title-page">Giới Thiệu MasterCert</h2>
-                            <div className="breadcrumb-trail link-style-4">
-                                <NavLink to={"/"}>Home</NavLink><span>Về Chúng Tôi</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+          <div className="container-fluid">
+              <div className="row">
+                  <div className="breadcrumbs">
+                      <h2 className="section-title-page">Giới Thiệu MasterCert</h2>
+                      <div className="breadcrumb-trail link-style-4">
+                          <NavLink to={"/"}>Home</NavLink><span>Về Chúng Tôi</span>
+                      </div>
+                  </div>
+              </div>
+          </div>
         </section>
         <MainAbout /> 
         <Features />
