@@ -54,6 +54,7 @@ var swiper =  new Swiper(".carousel-2", {
       },
 });
 var swiper =  new Swiper(".carousel-3", {
+    autoplay:{ delay: 3000, disableOnInteraction: true },
     slidesPerView: 3,   
     loop: true,
     spaceBetween: 30,
