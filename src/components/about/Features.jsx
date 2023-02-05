@@ -155,31 +155,31 @@ export default function Features() {
                             </div>
                         </div>
                 </div>
-                <div class="col-lg-4 col-md-12 side-bar wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
-                    <ul class="list-menu">
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 9001 <span class="readmore"></span></NavLink>
+                <div className="col-lg-4 col-md-12 side-bar wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
+                    <ul className="list-menu">
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 9001 <span className="readmore"></span></NavLink>
                         </li>
-                        <li class="active"><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 14001 <span class="readmore active"></span></NavLink></li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 45001 <span class="readmore"></span></NavLink>
+                        <li className="active"><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 14001 <span className="readmore active"></span></NavLink></li>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 45001 <span className="readmore"></span></NavLink>
                         </li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 20000 <span class="readmore"></span></NavLink>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 20000 <span className="readmore"></span></NavLink>
                         </li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 22000 <span class="readmore"></span></NavLink>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 22000 <span className="readmore"></span></NavLink>
                         </li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 22301 <span class="readmore"></span></NavLink>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 22301 <span className="readmore"></span></NavLink>
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-4 col-md-12 side-bar wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
-                    <ul class="list-menu">
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 27001 <span class="readmore"></span></NavLink>
+                <div className="col-lg-4 col-md-12 side-bar wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
+                    <ul className="list-menu">
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 27001 <span className="readmore"></span></NavLink>
                         </li>
-                        <li class="active"><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 27017 <span class="readmore active"></span></NavLink></li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói PCI DSS <span class="readmore"></span></NavLink>
+                        <li className="active"><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 27017 <span className="readmore active"></span></NavLink></li>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói PCI DSS <span className="readmore"></span></NavLink>
                         </li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói <br/> cấp chứng chỉ SOC <span class="readmore"></span></NavLink>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói <br/> cấp chứng chỉ SOC <span className="readmore"></span></NavLink>
                         </li>
-                        <li><NavLink to={"/dich-vu"}>Tư vấn, đánh giá An toàn & <br/> Bảo mật thông tin <span class="readmore"></span></NavLink>
+                        <li><NavLink to={"/dich-vu"}>Tư vấn, đánh giá An toàn & <br/> Bảo mật thông tin <span className="readmore"></span></NavLink>
                         </li>
                     </ul>
                 </div>

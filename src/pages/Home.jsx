@@ -9,13 +9,8 @@ import FlatLatest from '../components/home/FlatLatest'
 import Header from '../components/plugins/Header'
 import Footer from '../components/plugins/Footer'
 import FlatTestimonial from '../components/home/FlatTestimonial'
-import ImportScript from '../ImportScript'
 
 export default function Home() {
-  ImportScript('assets/js/swiper.js');
-  ImportScript('assets/js/countto.js');
-  ImportScript('assets/js/shortcodes.js');
-  ImportScript('assets/js/plugin.js');
   return (
     <div id="page" className="clearfix">
         <Header />

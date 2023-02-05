@@ -3,8 +3,8 @@ import Footer from '../components/plugins/Footer'
 import Header from '../components/plugins/Header'
 import MainAbout from '../components/about/MainAbout'
 import Features from '../components/about/Features'
-import LogoSlogan from '../components/about/LogoSlogan'
 import { NavLink } from 'react-router-dom'
+import FlatLogoSlogan from '../components/home/FlatLogoSlogan'
 
 export default function About() {
   return (
@@ -36,7 +36,7 @@ export default function About() {
               </div>
           </div>
         </div>
-        <LogoSlogan />
+        <FlatLogoSlogan />
         <Footer />
     </>
   )
