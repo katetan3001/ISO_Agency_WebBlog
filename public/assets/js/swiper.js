@@ -81,25 +81,25 @@ var swiper =  new Swiper(".carousel-3", {
     // slider vertical
 var swiper =  new Swiper(".slider-vertical", {
     direction: 'vertical',
-    slidesPerView: 2,
-    spaceBetween: 35,
+    slidesPerView: 1.5,
+    spaceBetween: 5,
     autoplay: {
         delay: 3000,
         disableOnInteraction: true,
+    },
+    breakpoints: {
+        607: {
+            slidesPerView: 2.5,
+            spaceBetween: 10,
+        },
+        1200: {
+            slidesPerView: 3,
+            spaceBetween: 25,
+        },
     },
     navigation: {
         clickable: true,
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",
-    },
-    breakpoint: {
-        768: {
-            slidesPerView: 2.5,
-            spaceBetween: 20,
-        },
-        1200: {
-            slidesPerView: 3,
-            spaceBetween: 25,
-        }
     }
 });
