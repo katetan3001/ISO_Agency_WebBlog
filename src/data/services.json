@@ -1,4 +1,4 @@
-[{"swiper": [
+[{"detailed": [
     {
         "title": "Tư vấn trọn gói lấy chứng chỉ ISO 9001",
         "description": "Chứng nhận ISO 9001 là tiêu chuẩn quốc tế quản lý chất lượng từng sản phẩm dịch vụ, giúp doanh nghiệp có một hệ thống quản lý chất lượng rõ ràng, quản lý hiệu quả hơn trong các khâu, phần hành cụ thể",
@@ -57,47 +57,58 @@
 ],
 "card": [
     {
-        "title": "Chứng Chỉ ISO 9001",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 9001",
+        "icon": "assets/images/image-box/services/iso-9001.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 20000",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 20000",
+        "icon": "assets/images/image-box/services/iso-20000.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 22000",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 22000",
+        "icon": "assets/images/image-box/services/iso-22000.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 27001",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 27001",
+        "icon": "assets/images/image-box/services/iso-27001.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 27017",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 27017",
+        "icon": "assets/images/image-box/services/iso-27017.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ PCI DSS",
-        "imgPath": "assets/images/image-box/services/pci-dss.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ PCIDSS",
+        "icon": "assets/images/image-box/services/pci-dss.png",
+        "img": "assets/images/image-box/services/pci-dss.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 14001",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 14001",
+        "icon": "assets/images/image-box/services/iso-14001.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 45001",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 45001",
+        "icon": "assets/images/image-box/services/iso-45001.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ ISO 22301",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 22301",
+        "icon": "assets/images/image-box/services/iso-22301.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Chứng Chỉ SOC",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title": "Tư vấn trọn gói lấy chứng chỉ SOC",
+        "icon": "assets/images/image-box/services/iso-22301.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     },
     {
-        "title": "Đánh Giá An Toàn & Bảo Mật Thông Tin",
-        "imgPath": "assets/images/image-box/services/iso-9001.jpg"
+        "title":  "Tư vấn và đánh giá An toàn và Bảo mật thông tin",
+        "icon": "assets/images/image-box/services/iso-22301.png",
+        "img": "assets/images/image-box/services/iso-9001.jpg"
     }
 ]}]

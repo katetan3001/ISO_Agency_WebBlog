@@ -38,10 +38,6 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
     return (<div className="swiper-slide">
             <div className={className} data-wow-delay="600ms" data-wow-duration="1500ms">
                 <div className="work-icon">
-                    <div className="top item-shape item-shape1"></div>
-                    <div className="top item-shape item-shape2"></div>
-                    <div className="bottom item-shape item-shape1"></div>
-                    <div className="bottom item-shape item-shape2"></div>
                     <div className="master-icon-box">
                         <div className="icon-wrap">
                             <img src={imgPath} style={{width: '100px'}} alt={imgPath.split('/')[4]}/>

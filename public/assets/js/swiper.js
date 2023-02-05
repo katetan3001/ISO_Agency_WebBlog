@@ -16,7 +16,7 @@ var swiper =  new Swiper(".carousel", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 2,
+    slidesPerView: 1.5,
     loop: true, 
     spaceBetween: 10,
     navigation: {
@@ -31,26 +31,22 @@ var swiper =  new Swiper(".carousel", {
     breakpoints: {
         768: {
             slidesPerView: 2,
-            spaceBetween: 30,
+            spaceBetween: 10,
         },
         1024: {
             slidesPerView: 3,
-            spaceBetween: 30,
+            spaceBetween: 15,
         },
     },
 });
 var swiper =  new Swiper(".carousel-2", {
-    // autoplay: {
-    //     delay: 6000,
-    //     disableOnInteraction: false,
-    // },
     slidesPerView:3,
     slidesPerColumn:2,
     slidesPerGroup:3,
     spaceBetween: 10,
     slidesPerColumnFill:"row",
     grabCursor:true,
-    autoplay:{ delay: 3000 },
+    autoplay:{ delay: 3000, disableOnInteraction: true },
     navigation: {
         clickable: true,
         nextEl: ".swiper-button-next",
@@ -60,22 +56,8 @@ var swiper =  new Swiper(".carousel-2", {
         el: ".swiper-pagination",
         clickable: true,
       },
-    breakpoints: {
-        768: {
-            slidesPerView: 3,
-            spaceBetween: 10,
-        },
-        1024: {
-            slidesPerView: 4,
-            spaceBetween: 10,
-        },
-    },
 });
 var swiper =  new Swiper(".carousel-3", {
-    // autoplay: {
-    //     delay: 6000,
-    //     disableOnInteraction: false,
-    // },
     slidesPerView: 3,   
     loop: true,
     spaceBetween: 30,

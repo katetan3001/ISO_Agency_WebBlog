@@ -3363,40 +3363,6 @@ a:focus {
     padding: 50px 0 20px 0;
 }
 
-.flat-work .work-box .item-shape {
-    width           : 52px;
-    height          : 42px;
-    left            : 26px;
-    background-color: #00adee;
-}
-
-.flat-work .work-box .item-shape2,
-.flat-team .bottom.item-shape2 {
-    left            : 58px;
-    background-color: #00a0dc;
-    z-index         : 1;
-}
-
-.flat-work .top.item-shape{
-    top: -60px;
-    margin-bottom: 20px;
-}
-
-.flat-work .bottom.item-shape,
-.flat-work .bottom.item-shape2,
-.flat-team .bottom.item-shape,
-.flat-team .bottom.item-shape2 {
-    top      : unset;
-    left     : unset;
-    bottom   : -90px;
-    right    : 62px;
-    transform: rotate(58deg);
-}
-
-.flat-work .bottom.item-shape2,
-.flat-team .bottom.item-shape2 {
-    right: 32px;
-}
 
 .flat-work .master-icon-box .icon-wrap {
     margin-bottom: 23px;
@@ -3426,15 +3392,6 @@ a:focus {
 .flat-work .work-box:hover a,
 .flat-work .work-box.active a {
     color: #fff;
-}
-.flat-work .work-box:hover .top.item-shape,
-.flat-work .work-box.active .top.item-shape {
-    top: 0;
-}
-
-.flat-work .work-box:hover .bottom.item-shape,
-.flat-work .work-box.active .bottom.item-shape {
-    bottom: -40px;
 }
 
 /* flat wcu 

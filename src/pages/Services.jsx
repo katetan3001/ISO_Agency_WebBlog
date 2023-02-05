@@ -42,7 +42,7 @@ export default function Services() {
                         </div>
                     </div>
                     {services[0].card.map((el, i) => 
-                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.imgPath} /> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.imgPath} />)}
+                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.img} /> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.img} />)}
                 </div>
             </div>
         </section>

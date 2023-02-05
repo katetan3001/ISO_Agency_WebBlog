@@ -310,6 +310,12 @@
   .flat-work .carousel-2 .text-wrap h3 {
     font-size: 16px;
   }
+  .flat-work .carousel-2 .text-wrap a {
+    font-size: 14px;
+  }
+  .flat-work .work-box {
+    padding: 15px;
+  }
   #footer-top .footer-schedule {
     justify-content: center;
   }
