@@ -16,6 +16,10 @@ export default function FlatWork() {
                         </div>
                     </div>
                 </div>
+                <div className="col-md-12" style={{marginTop: "30px", marginBottom: "30px"}}>
+                    <div className="swiper-button-next btn-custom-carousel-next"></div>
+                    <div className="swiper-button-prev btn-custom-carousel-prev"></div>
+                </div>
                 <div className="col-md-12">
                     <div className="swiper-container carousel-2 work-carousel">
                         <div className="swiper-wrapper">
@@ -34,8 +38,6 @@ export default function FlatWork() {
                             />;})}
                         </div>
                     </div>
-                    <div className="swiper-button-next btn-custom-carousel-next"></div>
-                    <div className="swiper-button-prev btn-custom-carousel-prev"></div>
                 </div>
             </div>
         </div>
