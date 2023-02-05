@@ -16,7 +16,7 @@ var swiper =  new Swiper(".carousel", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 1.5,
+    slidesPerView: 2,
     loop: true, 
     spaceBetween: 10,
     navigation: {
@@ -44,9 +44,13 @@ var swiper =  new Swiper(".carousel-2", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 1,   
-    loop: true,
-    spaceBetween: 30,
+    slidesPerView:3,
+    slidesPerColumn:2,
+    slidesPerGroup:3,
+    spaceBetween: 10,
+    slidesPerColumnFill:"row",
+    grabCursor:true,
+    autoplay:{ delay: 3000 },
     navigation: {
         clickable: true,
         nextEl: ".swiper-button-next",
@@ -59,11 +63,11 @@ var swiper =  new Swiper(".carousel-2", {
     breakpoints: {
         768: {
             slidesPerView: 3,
-            spaceBetween: 30,
+            spaceBetween: 10,
         },
         1024: {
             slidesPerView: 4,
-            spaceBetween: 30,
+            spaceBetween: 10,
         },
     },
 });

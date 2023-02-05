@@ -14,7 +14,7 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
             <div className="item-shape item-shape2"></div>
             <div className="features-box-inner">
                 <div className="icon-features">
-                    <span className={imgPath} st></span>
+                    <span className={imgPath}></span>
                 </div>
                 <h3 className="headline">{title}</h3>
                 <p>{description}</p>                
@@ -48,7 +48,6 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
                         </div>
                         <div className="text-wrap">
                             <h3 className="headline">{title}</h3>
-                            <p>{description}</p>
                             <a href={clickPath} className="url-wrap readmore">Xem Thêm</a>
                         </div>
                     </div>

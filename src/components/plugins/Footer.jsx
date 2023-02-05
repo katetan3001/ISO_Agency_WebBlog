@@ -14,7 +14,7 @@ export default function Footer() {
                                 <h2 className="section-40px-barlow font-weight-500">Bạn cần được tư vấn ngay ?</h2>
                             </div>
                             <div className="button-footer">
-                                <a href="contact.html" className="button readmore">Chat</a>
+                                <NavLink to={"/"} className="button readmore">Chat</NavLink>
                             </div>
                         </div>
                     </div>
@@ -42,14 +42,14 @@ export default function Footer() {
                                 <h3 className="widget-title-link-wrap">Về MasterCert</h3>
                                 <div className="widget-links">
                                     <ul className="link-wrap">
-                                        <li key={0}><a><NavLink to={"/ve-chung-toi"}/> Giới Thiệu </a></li>
-                                        <li key={1}><a><NavLink to={"/dich-vu"} /> Dịch Vụ </a></li>
-                                        <li key={2}><a><NavLink to={"/dich-muc"} /> Danh Mục </a></li>
+                                        <li key={0}><NavLink to={"/ve-chung-toi"}/> Giới Thiệu</li>
+                                        <li key={1}><NavLink to={"/dich-vu"} /> Dịch Vụ</li>
+                                        <li key={2}><NavLink to={"/dich-muc"} /> Danh Mục</li>
                                     </ul>
                                     <ul className="link-wrap">
-                                        <li key={0}><a><NavLink to={"/tai-lieu"}/>Tài Liệu</a></li>
-                                        <li key={1}><a><NavLink to={"/kien-thuc"} />Kiến Thức</a></li>
-                                        <li key={2}><a><NavLink to={"/tin-tuc"} />Tin Tức</a></li>
+                                        <li key={0}><NavLink to={"/tai-lieu"}/>Tài Liệu</li>
+                                        <li key={1}><NavLink to={"/kien-thuc"} />Kiến Thức</li>
+                                        <li key={2}><NavLink to={"/tin-tuc"} />Tin Tức</li>
                                     </ul>
                                 </div>
                             </div>
