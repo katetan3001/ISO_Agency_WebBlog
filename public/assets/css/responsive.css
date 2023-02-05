@@ -5,7 +5,6 @@
   #site-logo-inner {
     clip-path: polygon(0 0, 100% 0, 90% 100%, 0% 100%);
   }
-
   #site-header-right .button-header,
   .swiper-slide-active .slider-right .mark-slider-2,
   .swiper-slide-active .slider-right .mark-slider-1 {
@@ -176,11 +175,6 @@
   .flat-team .team-content-box .team-post img {
     width: 100%;
   }
-
-  .flat-features .features-box {
-    margin: 0 10px;
-  }
-
   .flat-blog .post-content-wrap {
     padding: 15px;
   }
@@ -440,13 +434,16 @@
 @media only screen and (max-width: 767px) and (min-width: 645px) {
   .flat-features .features-box  {
     position: relative;
-    height: 420px;
+    height: 440px;
   }
 }
-@media only screen and (max-width: 644px) and (min-width: 481px) {
+@media only screen and (max-width: 644px) {
   .flat-features .features-box  {
     position: relative;
-    height: 350px;
+    height: 330px;
+  }
+  .flat-about {
+    margin-top: 70px;
   }
 }
 }

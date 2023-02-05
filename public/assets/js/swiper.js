@@ -16,7 +16,7 @@ var swiper =  new Swiper(".carousel", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 1.5,
+    slidesPerView: 1,
     loop: true, 
     spaceBetween: 10,
     navigation: {
