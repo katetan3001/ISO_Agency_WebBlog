@@ -16,9 +16,9 @@ var swiper =  new Swiper(".carousel", {
     //     delay: 6000,
     //     disableOnInteraction: false,
     // },
-    slidesPerView: 1,
+    slidesPerView: 1.5,
     loop: true, 
-    spaceBetween: 30,
+    spaceBetween: 10,
     navigation: {
         clickable: true,
         nextEl: ".swiper-button-next",
@@ -27,7 +27,7 @@ var swiper =  new Swiper(".carousel", {
     pagination: {
         el: ".swiper-pagination",
         clickable: true,
-      },
+    },
     breakpoints: {
         768: {
             slidesPerView: 2,

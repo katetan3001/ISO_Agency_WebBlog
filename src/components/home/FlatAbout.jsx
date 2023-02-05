@@ -43,10 +43,7 @@ export default function FlatAbout() {
                         data-wow-duration="1500ms">
                         <div className="about-post">
                             <img src="assets/images/image-box/about-img-1@2x.jpg" alt="images"/>
-                            <a href="https://www.youtube.com/embed/xC4ze0p0b5Y"
-                                className="about-video video lightbox-image">
                                 <i className="ripple"></i>
-                            </a>
                             <div className="about-counter-box wow fadeInUp" data-wow-delay="0ms"
                                 data-wow-duration="1500ms">
                                 <div className="about-counter-inner">

@@ -13,6 +13,9 @@ import useScript from '../useScript'
 
 export default function Home() {
   useScript('assets/js/swiper.js');
+  useScript('assets/js/plugin.js');
+  useScript('assets/js/shortcodes.js');
+  useScript('assets/js/countto.js');
   return (
     <div id="page" className="clearfix">
         <Header />

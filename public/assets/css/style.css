@@ -3155,6 +3155,7 @@ a:focus {
 }
 
 .flat-features .features-box .icon-features {
+    margin-top: 30px;
     margin-bottom: 23px;
 }
 
@@ -3434,7 +3435,7 @@ a:focus {
 .flat-work .work-box.active {
     background-color: var(--primary-color);
     color           : #fff;
-    box-shadow      : 0px 5px 17px #02709a;
+    box-shadow      : 0px 5px 7px #02709a;
 }
 
 .flat-work .work-box:hover a,

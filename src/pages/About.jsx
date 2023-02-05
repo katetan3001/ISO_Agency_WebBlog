@@ -8,6 +8,7 @@ import FlatLogoSlogan from '../components/home/FlatLogoSlogan'
 import useScript from '../useScript'
 
 export default function About() {
+  useScript('assets/js/shortcodes.js');
   useScript('assets/js/swiper.js');
   return (
     <>

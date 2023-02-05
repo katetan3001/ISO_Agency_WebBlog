@@ -300,9 +300,21 @@
 }
 
 /* All Mobile Sizes */
+@media only screen and  (max-width: 539px) {
+.button-footer {
+  margin-bottom: 20px;
+}
+}
+
 @media only screen and (max-width: 767px) {
   #footer-top .footer-schedule {
     justify-content: center;
+  }
+  .flat-service-details .side-bar-1 {
+    margin-top: 30px;
+  }
+  .flat-service-details .side-bar .list-menu {
+    margin-bottom: 10px;
   }
   #footer .menu-1,
   #footer .menu-2,
@@ -428,6 +440,6 @@
     height: 350px;
   }
 }
-  /* ------------------------------------------ */
 }
+  /* ------------------------------------------ */
 

@@ -19,7 +19,7 @@ export default function FlatWork() {
                 <div className="col-md-12">
                     <div className="swiper-container carousel work-carousel">
                         <div className="swiper-wrapper">
-                            {services.map((e, i) => {return i === 1 ? <Swiper 
+                            {services[0].swiper.map((e, i) => {return i === 1 ? <Swiper 
                             key={i}
                             active={true}
                             type={'services'}

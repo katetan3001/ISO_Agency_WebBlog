@@ -155,7 +155,7 @@ export default function Features() {
                             </div>
                         </div>
                 </div>
-                <div className="col-lg-4 col-md-12 side-bar wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
+                <div className="col-lg-4 col-md-12 side-bar side-bar-1 wow fadeInDown" data-wow-delay="0ms" data-wow-duration="1500ms" style={{visibility: "visible", animationDuration: "1500ms", animationDelay: "0ms", animationName: "fadeInDown"}}>
                     <ul className="list-menu">
                         <li><NavLink to={"/dich-vu"}>Tư vấn trọn gói ISO 9001 <span className="readmore"></span></NavLink>
                         </li>

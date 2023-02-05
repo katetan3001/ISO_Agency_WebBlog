@@ -16,7 +16,7 @@ export default function FlatSlider() {
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
                                         <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
-                                        <a href="https://www.youtube.com/embed/xC4ze0p0b5Y"
+                                        <a href=""
                                             className="video button btn-slider readmore lightbox-image">Khảo Sát Thử</a>
                                     </div>
                                 </div>
@@ -37,7 +37,7 @@ export default function FlatSlider() {
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
                                         <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
-                                        <a href="https://www.youtube.com/embed/xC4ze0p0b5Y" className="video button btn-slider readmore lightbox-image"> Kiểm Tra Thử </a>
+                                        <a href="" className="video button btn-slider readmore lightbox-image"> Kiểm Tra Thử </a>
                                     </div>
                                 </div>
                             </div>
