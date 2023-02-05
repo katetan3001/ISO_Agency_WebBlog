@@ -5318,7 +5318,7 @@ a:focus {
     justify-content : space-between;
     background-color: #fff;
     padding         : 0 62px;
-    height          : 129px;
+    height          : 150px;
     border-radius   : 8px;
     z-index         : 100;
 }
@@ -5344,6 +5344,8 @@ a:focus {
 
 #footer-top .footer-schedule h2 {
     color: var(--primary-color5);
+    font-size: 30px;
+    margin-bottom: 10px;
 }
 
 #footer-top .footer-schedule h2::after {
