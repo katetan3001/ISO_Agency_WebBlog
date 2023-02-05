@@ -2,19 +2,19 @@
 "home": [
     {
         "title": "Cam Kết Kim Cương",
-        "description": "Hoàn thiện 100% hồ sơ, tài liệu giúp các khách hàng chỉ từ 1 tuần. Cam kết đồng hành với khách hàng đến khi nhận được chứng chỉ",
+        "description": "Hoàn thiện 100% hồ sơ, tài liệu giúp khách hàng nhanh chóng. Cam kết đồng hành với khách hàng đến khi nhận được chứng chỉ",
         "icon": "icon icon-help",
         "img": "assets/images/image-box/features/features-img-3@2x.png"
     },
     {
         "title": "Dịch Vụ Cao Cấp",
-        "description": "Tư vấn nhiệt tình, hồ sơ đạt chuẩn các tổ chức đánh giá quốc tế và trong nước (Tuvnord, BSI, SISA, ControlCase, Crossbow Labs, Bureau Veritas, CMC, …)",
+        "description": "Quy chuẩn hồ sơ theo các tổ chức đánh giá toàn cầu (Tuvnord, BSI, SISA, ControlCase, Crossbow Labs, Bureau Veritas, CMC, …)",
         "icon": "icon icon-star-2",
         "img": "assets/images/image-box/features/features-img-2@2x.jpg"
     },
     {
         "title": "Chuyên Gia Hàng Đầu",
-        "description": "Chuyên gia tư vấn, thực hiện có bề dày kinh nghiệm trên dưới 7 năm lấy chứng chỉ quốc tế cho các công ty tổ chức trong và ngoài nước",
+        "description": "Đội ngũ có bề dày hàng thập kỉ kinh nghiệm tư vấn chứng chỉ quốc tế cho các tập đoàn trong và ngoài nước",
         "icon": "icon icon-user",
         "img": "assets/images/image-box/features/features-img-1@2x.png"
     }

@@ -52,54 +52,6 @@ export default function FlatTestimonial() {
                                         />
                                     })
                                 }
-                                {/* <div className="swiper-slide">
-                                    <div className="testimonial-slide-box">
-                                        <div className="testimonal-content">
-                                            <p>Improve efficiency, provide a better customer experience with
-                                                modern technology services available around the world. Our
-                                                skilled staff, combined with decades of experience.</p>
-                                        </div>
-                                        <div className="testimonal-icon">
-                                            <span className="icon-tes"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="swiper-slide">
-                                    <div className="testimonial-slide-box">
-                                        <div className="testimonal-content">
-                                            <p>Improve efficiency, provide a better customer experience with
-                                                modern technology services available around the world. Our
-                                                skilled staff, combined with decades of experience.</p>
-                                        </div>
-                                        <div className="testimonal-icon">
-                                            <span className="icon-tes"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="swiper-slide">
-                                    <div className="testimonial-slide-box">
-                                        <div className="testimonal-content">
-                                            <p>Improve efficiency, provide a better customer experience with
-                                                modern technology services available around the world. Our
-                                                skilled staff, combined with decades of experience.</p>
-                                        </div>
-                                        <div className="testimonal-icon">
-                                            <span className="icon-tes"></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div className="swiper-slide">
-                                    <div className="testimonial-slide-box">
-                                        <div className="testimonal-content">
-                                            <p>Improve efficiency, provide a better customer experience with
-                                                modern technology services available around the world. Our
-                                                skilled staff, combined with decades of experience.</p>
-                                        </div>
-                                        <div className="testimonal-icon">
-                                            <span className="icon-tes"></span>
-                                        </div>
-                                    </div>
-                                </div> */}
                             </div>
                         </div>
                     </div>

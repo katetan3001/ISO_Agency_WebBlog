@@ -83,7 +83,7 @@ export default function Nav({index}) {
             </div>
         </div>
         <div className="button-header">
-            <a href="contact.html">GET REQUEST</a>
+            <a href="contact.html">Liên Hệ Ngay</a>
         </div>
     </div>
     </div>
