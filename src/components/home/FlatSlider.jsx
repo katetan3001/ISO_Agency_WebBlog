@@ -35,7 +35,6 @@ export default function FlatSlider() {
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
                                         <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
-                                        <a href="" className="video button btn-slider readmore lightbox-image"> Kiểm Tra Thử </a>
                                     </div>
                                 </div>
                             </div>
