@@ -13,7 +13,7 @@ export default function FlatFeatures() {
                         <div className="section-title">
                             <h3 className="section-heading">Điều Gì Đặc Biệt Ở MasterCert?</h3>
                             <div className="features-content-left">
-                                <h2>Đưa Doanh Nghiệp Của Bạn Lên Một Tầm Cao Mới</h2>
+                                <h2>MasterCert đáp ứng tốt hơn những gì Khách hàng cần!</h2>
                             </div>
                         </div>
                         <div className="features-content-right">

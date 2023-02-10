@@ -2,19 +2,19 @@
 "home": [
     {
         "title": "Cam Kết Kim Cương",
-        "description": "Hoàn thiện 100% hồ sơ, tài liệu giúp khách hàng nhanh chóng. Cam kết đồng hành với khách hàng đến khi nhận được chứng chỉ",
+        "description": "Hoàn thiện 100% hồ sơ, tài liệu giúp khách hàng nhanh chóng lấy chứng chỉ. Cam kết đồng hành với khách hàng đến khi nhận được chứng chỉ",
         "icon": "icon icon-help",
         "img": "assets/images/image-box/features/features-img-3@2x.png"
     },
     {
         "title": "Dịch Vụ Cao Cấp",
-        "description": "Quy chuẩn hồ sơ theo các tổ chức đánh giá toàn cầu (Tuvnord, BSI, SISA, ControlCase, Crossbow Labs, Bureau Veritas, CMC, …)",
+        "description": "Hồ sơ tài liệu và tư vấn từ MasterCert đáp ứng hoàn toàn phù hợp để lấy chứng chỉ từ các tổ chức đánh giá quốc tế và trong nước (Tuvnord, BSI, SISA, ControlCase, Crossbow Labs, Bureau Veritas, CMC, …)",
         "icon": "icon icon-star-2",
         "img": "assets/images/image-box/features/features-img-2@2x.jpg"
     },
     {
         "title": "Chuyên Gia Hàng Đầu",
-        "description": "Đội ngũ có bề dày hàng thập kỉ kinh nghiệm tư vấn chứng chỉ quốc tế cho các tập đoàn trong và ngoài nước",
+        "description": "Đội ngũ có bề dày kinh nghiệm lấu năm về tư vấn, duy trì và lấy chứng chỉ quốc tế cho các tập đoàn trong và ngoài nước Và kiến thức về công nghệ, kỹ thuật chuyên sâu",
         "icon": "icon icon-user",
         "img": "assets/images/image-box/features/features-img-1@2x.png"
     }
