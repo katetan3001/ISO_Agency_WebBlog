@@ -13,7 +13,7 @@ export default function FlatSlider() {
                                 <div className="slider-left-content">
                                     <h3>Cùng MasterCert</h3>
                                     <h2>Lấy Chứng Nhận Quốc Tế "dễ dàng và nhanh chóng"</h2>
-                                    <p>Với những con người có "tiếng" trong lĩnh vực tiêu chuẩn quốc tế, MasterCert cam kết nhanh chóng hoàn thiện hồ sơ tài liệu, khắc phục các điểm chưa phù hợp với tiêu chuẩn và đồng hành cùng khách hàng đến khi lấy được chứng nhận.</p>
+                                    <p>Với những chuyên gia có "tiếng" trong lĩnh vực tiêu chuẩn quốc tế, MasterCert cam kết nhanh chóng hoàn thiện hồ sơ tài liệu, khắc phục các điểm chưa phù hợp với tiêu chuẩn và đồng hành cùng khách hàng đến khi lấy được chứng nhận.</p>
                                     <div className="button-slider">
                                         <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
                                     </div>
