@@ -28,7 +28,7 @@ export default function Footer() {
                                 <img src="assets/images/logo/logo-dark.png" alt="images"/>
                             </a>
                         </div>
-                        <p className="text-widget">Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs, ….)</p>
+                        <p className="text-widget">Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs)</p>
                         <div className="widget-social">
                             <ul>
                                 <li key={0}><a href="#" className="facebook-icon"></a></li>
