@@ -38,12 +38,12 @@ export default function Nav({index}) {
                 <li className={className[2].join(' ')}>
                     <NavLink to='/dich-vu'>Danh sách dịch vụ</NavLink>
                     <ul className="sub-menu">
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 9001:2015</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22000:2018</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 20000:2018</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22301:2019</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27001:2022</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27017:2015</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 9001</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22000</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 20000</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22301</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27001</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27017</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói PCI DSS</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SWIFT</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SOC v1,2,3</NavLink></li>
