@@ -38,7 +38,7 @@ export default function MainAbout() {
                                     <p>Kinh nghiệm – Kiến thức – Linh hoạt – Nhiệt thành – Khách hàng là trọng tâm.</p>
                                 </div>
                             </div>
-                            <div className="button-contact wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms" style={{"visibility": "visible", "animationDuration": "1500ms", "animationDelay": "500ms", "animationName": "fadeInUp"}}>
+                            <div className="button-contact wow fadeInUp row align-items-center" data-wow-delay="500ms" data-wow-duration="1500ms" style={{"visibility": "visible", "animationDuration": "1500ms", "animationDelay": "500ms", "animationName": "fadeInUp"}}>
                                 <NavLink to={'/'} className="button readmore btn-style3">Liên Hệ Chúng Tôi</NavLink>
                             </div>
                         </div>
