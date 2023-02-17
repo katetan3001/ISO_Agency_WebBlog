@@ -7,7 +7,7 @@ export default function MainAbout() {
         <section className="tf-space flat-about-2">
             <div className="container">
                 <div className="row align-items-center">
-                    <div className="col-md-6">
+                    <div className="">
                         <div className="about-2-content-left wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms" style={{"visibility": "visible", "animationDuration": "1500ms", "animationDelay": "0ms", "animationName": "fadeInLeft"}}>
                             <div className="section-title st-2">
                                 <h3 className="section-heading">Về Chúng Tôi</h3>
