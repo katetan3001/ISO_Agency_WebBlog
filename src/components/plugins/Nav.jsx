@@ -38,15 +38,15 @@ export default function Nav({index}) {
                 <li className={className[2].join(' ')}>
                     <NavLink to='/dich-vu'>Danh sách dịch vụ</NavLink>
                     <ul className="sub-menu">
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 9001:2015</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 22000:2018</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 20000:2018</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 22301:2019</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 27001:2022</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>ISO 27017:2015</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>PCI DSS</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>SWIFT</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>SOC v1,2,3</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 9001:2015</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22000:2018</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 20000:2018</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22301:2019</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27001:2022</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27017:2015</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói PCI DSS</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SWIFT</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SOC v1,2,3</NavLink></li>
                     </ul>
                 </li>
                 <li className={className[3].join(' ')}>
