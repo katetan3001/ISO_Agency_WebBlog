@@ -2,7 +2,7 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 export default function Nav({index}) {
-  let className = [['menu-item'],['menu-item'],['menu-item', 'menu-item-has-children'],['menu-item'],['menu-item'],['menu-item'],]
+  let className = [['menu-item'],['menu-item'],['menu-item', 'menu-item-has-children'],['menu-item'],['menu-item'],['menu-item']] 
   switch (index) {
     case 0: className[0].push('current-menu-item')
     break;
@@ -15,6 +15,8 @@ export default function Nav({index}) {
     case 4: className[4].push('current-menu-item')
     break;
     case 5: className[5].push('current-menu-item')
+    break;
+    case 6: className[6].push('current-menu-item')
     break;
     default: console.log(className);
     break

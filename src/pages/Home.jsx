@@ -18,7 +18,7 @@ export default function Home() {
   useScript('assets/js/countto.js');
   return (
     <div id="page" className="clearfix">
-        <Header />
+        <Header menuItem={0}/>
         <FlatSlider />
         <FlatFeatures />
         <FlatAbout />

@@ -51,7 +51,7 @@ export default function FlatLogoSlogan() {
                                 </div>
                             </div>
                         </div>
-                        <div class="swiper-pagination"></div>
+                        <div className="swiper-pagination"></div>
                     </div>
                 </div>
             </div>

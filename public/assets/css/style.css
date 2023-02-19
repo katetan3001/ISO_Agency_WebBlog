@@ -5214,10 +5214,9 @@ a:focus {
     color: var(--primary-color6);
 }
 .flat-contact .features-content-left {
-    color        : #fff;
+    color        : #01739d;
     margin-bottom: 31px;
 }
-
 .flat-contact .contact-icon-box {
     background-color: #fff;
     border-radius   : 6px;
@@ -5258,7 +5257,7 @@ a:focus {
     font-size  : 30px;
     font-family: 'Barlow', sans-serif;
     line-height: 36px;
-    color      : #fff;
+    color      : #01739d;
 }
 
 .flat-contact .contact-form {
