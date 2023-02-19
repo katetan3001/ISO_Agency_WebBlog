@@ -14,8 +14,7 @@ export default function FlatLatest() {
                                 <h2>Thông Tin Về Các<br/>
                                 Chứng Chỉ Quốc Tế Mới Nhất</h2>
                             </div>
-                            <p>Improve efficiency, provide a better customer experience with modern technology
-                                services around the world. Our skilled staff, combined</p>
+                            <p>Cùng nhau tìm hiểu, nghiên cứu, trao đổi và chia sẻ những kiến thức của bản thân để đưa cộng đồng lĩnh vực tiêu chuẩn quốc tế ở Việt Nam ngày càng phát triển, các công ty ở Việt Nam ngày càng đạt đẳng cấp và chất lượng thế giới</p>
                             <a href="blog.html" className="button readmore">View All blog</a>
                         </div>
                     </div>
@@ -29,14 +28,13 @@ export default function FlatLatest() {
                                 2021</div>
                         </div>
                         <div className="latest-content link-style-2">
-                            <a href="blog-details.html" className="heading">We would love to share a
-                                similar experience</a>
+                            <a href="blog-details.html" className="heading">Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013</a>
                             <div className="latest-content-bottom">
                                 <div className="post-readmore">
                                     <a href="blog-details.html" className="read-more"><span className="text">Read
                                             More</span></a>
                                 </div>
-                                <span className="post-tag">Digital</span>
+                                <span className="post-tag">ISO 27001</span>
                             </div>
                         </div>
                     </div>
@@ -50,14 +48,13 @@ export default function FlatLatest() {
                                 2021</div>
                         </div>
                         <div className="latest-content link-style-2">
-                            <a href="blog-details.html" className="heading">In this context our main
-                                approach was to build</a>
+                            <a href="blog-details.html" className="heading">Các doanh nghiệp nào nên triển khai PCI DSS?</a>
                             <div className="latest-content-bottom">
                                 <div className="post-readmore">
                                     <a href="blog-details.html" className="read-more"><span className="text">Read
                                             More</span></a>
                                 </div>
-                                <span className="post-tag">Digital</span>
+                                <span className="post-tag">PCI DSS</span>
                             </div>
                         </div>
                     </div>

@@ -20,7 +20,7 @@ export default function FlatAbout() {
                         </p>
                         <div className="progress-about">
                             <div className="couter">
-                                <div className="chart" data-percent="85">
+                                <div className="chart" data-percent="100">
                                     <span className="percent">0</span>
                                 </div>
                                 <h3 className="heading-progress">Khách Hàng<br/>
@@ -29,7 +29,7 @@ export default function FlatAbout() {
                         </div>
                         <div className="progress-about">
                             <div className="couter">
-                                <div className="chart" data-percent="95">
+                                <div className="chart" data-percent="100">
                                     <span className="percent">0</span>
                                 </div>
                                 <h3 className="heading-progress">Hồ Sơ<br/>
