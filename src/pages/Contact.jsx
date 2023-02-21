@@ -72,9 +72,9 @@ export default function Contact() {
                                             placeholder="Tên Hoặc Doanh Nghiệp" defaultValue="" size="32" aria-required="true" required=""/>
                                     </fieldset>
                                     <fieldset className="email-wrap">
-                                        <input type="tel" id="tel" className="tb-my-input" name="tel" tabIndex="2"
-                                            placeholder="Số Điện Thoại" defaultValue="" size="32" aria-required="true"
-                                            required=""/>
+                                    <input type="number" id="phone" className="tb-my-input" name="phone"
+                                        tabIndex="2" placeholder="Số Điện Thoại" defaultValue="" size="32"
+                                        aria-required="true" required/>
                                     </fieldset>
                                 </div>
                                 <fieldset className="message-wrap">

@@ -1,58 +1,112 @@
 [{"detailed": [
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 9001",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 9001",
         "description": "Chứng nhận ISO 9001 là tiêu chuẩn quốc tế quản lý chất lượng từng sản phẩm dịch vụ, giúp doanh nghiệp có một hệ thống quản lý chất lượng rõ ràng, quản lý hiệu quả hơn trong các khâu, phần hành cụ thể",
-        "img": "assets/images/image-box/services/iso-9001.png"
+        "img": "assets/images/image-box/services/iso-9001.png",
+        "category": ["telecom", "payment", "manufacture"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 20000",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 20000",
         "description": "ISO/IEC 20000:2018 giúp xác định và quản lý các quá trình then chốt liên quan đến hoạt động chuyển giao dịch vụ công nghệ thông tin hiệu quả để đáp ứng nhu cầu hoạt động kinh doanh của khách hàng",
-        "img": "assets/images/image-box/services/iso-20000.png"
+        "img": "assets/images/image-box/services/iso-20000.png",
+        "category": ["telecom"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 22000",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 22000",
         "description": "Chứng nhận ISO 22000:2005 tạo ra một tiêu chuẩn an toàn thực phẩm duy nhất kết hợp hài hòa các tiêu chuẩn quốc gia khác nhau thành một bộ yêu cầu dễ hiểu, dễ áp ​​dụng và được công nhận trên toàn thế giới.",
-        "img": "assets/images/image-box/services/iso-22000.png"
+        "img": "assets/images/image-box/services/iso-22000.png",
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 27001",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 27001",
         "description": "ISO/IEC 27001 là tiêu chuẩn quốc tế về thông tin và quản lý an toàn thông tin. Tiêu chuẩn này đưa ra các yêu cầu, phương pháp để thực hiện đánh giá độc lập hệ thống quản lý an toàn thông tin và chứng nhận cho hệ thống ISMS",
-        "img": "assets/images/image-box/services/iso-27001.png"
+        "img": "assets/images/image-box/services/iso-27001.png",
+        "category": ["telecom", "payment"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 27017",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 27017",
         "description": "ISO/IEC 27017:2015 đưa ra hướng dẫn về khía cạnh bảo mật thông tin của điện toán đám mây, đề xuất triển khai kiểm soát bảo mật thông tin cụ thể theo đám mây để bổ sung cho hướng dẫn về tiêu chuẩn ISO/IEC 27002 và ISO/IEC 27001",
-        "img": "assets/images/image-box/services/iso-27017.png"
+        "img": "assets/images/image-box/services/iso-27017.png",
+        "category": ["telecom"], 
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ PCIDSS",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ PCIDSS",
         "description": "PCI DSS là một tiêu chuẩn an ninh thông tin bắt buộc dành cho các doanh nghiệp lưu trữ, truyền tải và xử lý thẻ thanh toán quản lý bởi 05 tổ chức thanh toán quốc tế như Visa, MasterCard, American Express, Discover và JCB",
-        "img": "assets/images/image-box/services/pci-dss.png"
+        "img": "assets/images/image-box/services/pci-dss.png",
+        "category": ["telecom","payment"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 14001",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 14001",
         "description": "Tiêu chuẩn ISO 14001 cung cấp một khung chuẩn cho các tổ chức, giúp doanh nghiệp chứng minh những cam kết của mình trong các vấn đề về bảo vệ môi trường, thân thiện với hệ sinh thái & quản lý kinh doanh xanh",
-        "img": "assets/images/image-box/services/iso-14001.png"
+        "img": "assets/images/image-box/services/iso-14001.png",
+        "category": ["manufacture"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 45001",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 45001",
         "description": "ISO 45001 là tiêu chuẩn quốc tế mới về quản lý an toàn và sức khỏe nghề nghiệp thay thế tiêu chuẩn OHSAS 18001. Tiêu chuẩn chứng nhận cho các tổ chức có hệ thống giảm thiểu rủi ro tại nơi làm việc để cải thiện sự an toàn của nhân viên",
-        "img": "assets/images/image-box/services/iso-45001.png"
+        "img": "assets/images/image-box/services/iso-45001.png",
+        "category": ["manufacture"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ ISO 22301",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ ISO 22301",
         "description": "Tiêu chuẩn ISO 22301 BCM được thiết kế để đảm bảo rằng hệ thống quản lý liên tục kinh doanh mạnh mẽ đã được thiết lập và các nhân viên nội bộ nhận thức đầy đủ về vai trò của họ trong hệ thống nếu xảy ra sự cố",
-        "img": "assets/images/image-box/services/iso-22301.png"
+        "img": "assets/images/image-box/services/iso-22301.png",
+        "category": ["telecom"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
-        "title": "Tư vấn trọn gói lấy chứng chỉ SOC",
+        "title": "Tư vấn trọn gói lấy Chứng chỉ SOC",
         "description": "Updating Contents",
-        "img": "assets/images/image-box/services/iso-22301.png"
+        "img": "assets/images/image-box/services/iso-22301.png",
+        "category": ["telecom", "payment"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     },
     {
         "title":  "Tư vấn và đánh giá An toàn và Bảo mật thông tin",
         "description": "Updating Contents",
-        "img": "assets/images/image-box/services/iso-22301.png"
+        "img": "assets/images/image-box/services/iso-22301.png",
+        "category": ["payment"],
+        "post": {
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "link": ""
+        }
     }
 ],
 "card": [
