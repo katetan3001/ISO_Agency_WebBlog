@@ -1,23 +1,23 @@
 import React from 'react'
 
-export default function BlogCard({thumbnail, tag, date, author, title}) {
+export default function BlogCard({thumbnail, tag, date, author, title, blogId}) {
   return (
-    <article class="post-content-archive grow-up-hover">
-        <div class="post-media">
-            <img src={thumbnail} class="grow-up-hover" alt={"img-" + title}/>
-            <div class="post-media-tags">
+    <article className="post-content-archive grow-up-hover">
+        <div className="post-media">
+            <img src={thumbnail} className="grow-up-hover" alt={"img-" + title}/>
+            <div className="post-media-tags">
                 <span>{tag}</span>
             </div>
         </div>
-        <div class="post-content-wrap">
-            <div class="post-meta link-style-3">
-                <span class="date section-14px-regular-rubik"><a href="blog.html">{date}</a></span>
-                <span class="author section-14px-regular-rubik"><a href="blog.html">{author}</a></span>
+        <div className="post-content-wrap">
+            <div className="post-meta link-style-3">
+                <span className="date section-14px-regular-rubik"><a href={`/blog?${blogId}`}>{date}</a></span>
+                <span className="author section-14px-regular-rubik"><a href={`/blog?${blogId}`}>{author}</a></span>
             </div>
-            <div class="post-title section-22px-barlow link-style-2"><a
-                    href="blog-details.html">{title}</a></div>
-            <div class="post-readmore">
-                <a href="blog-details.html" class="read-more"></a>
+            <div className="post-title section-22px-barlow link-style-2"><a
+                    href={`/blog?${blogId}`}>{title}</a></div>
+            <div className="post-readmore">
+                <a href={`/blog?${blogId}`} className="read-more"></a>
             </div>
         </div>
     </article>

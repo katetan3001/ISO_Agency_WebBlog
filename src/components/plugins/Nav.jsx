@@ -21,7 +21,6 @@ export default function Nav({index}) {
     default: console.log(className);
     break
   };
-  console.log(className);
 
   return (
     <div id="site-header-inner">

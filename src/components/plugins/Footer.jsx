@@ -47,7 +47,7 @@ export default function Footer() {
                                         <li><NavLink to={"/lien-he"}>Liên Hệ </NavLink></li>
                                     </ul>
                                     <ul className="link-wrap">
-                                        <li key={0}><NavLink to={"/tai-lieu"}>Tài Liệu </NavLink></li>
+                                        <li key={0}><NavLink to={"/danh-muc"}>Danh Mục </NavLink></li>
                                         <li key={1}><NavLink to={"/kien-thuc"}>Kiến Thức </NavLink></li>
                                         <li key={2}><NavLink to={"/tin-tuc"}>Tin Tức</NavLink></li>
                                     </ul>

@@ -15,7 +15,7 @@ export default function FlatLatest() {
                                 Chứng Chỉ Quốc Tế Mới Nhất</h2>
                             </div>
                             <p>Cùng nhau tìm hiểu, nghiên cứu, trao đổi và chia sẻ những kiến thức của bản thân để đưa cộng đồng lĩnh vực tiêu chuẩn quốc tế ở Việt Nam ngày càng phát triển, các công ty ở Việt Nam ngày càng đạt đẳng cấp và chất lượng thế giới</p>
-                            <a href="blog.html" className="button readmore">View All blog</a>
+                            <a href="blog.html" className="button readmore">Xem Tất Cả</a>
                         </div>
                     </div>
                 </div>

@@ -3,7 +3,6 @@ import Swiper from '../plugins/Swiper'
 import services from '../../data/services.json'
 import { NavLink } from 'react-router-dom';
 export default function FlatWork() {
-    console.log(services);
     return (
     <section className="tf-space flat-work">
         <div className="container">

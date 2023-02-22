@@ -2,6 +2,7 @@
     "grid": [
         {
             "info": {
+                "id": "iso9001-0",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -15,6 +16,7 @@
         },
         {
             "info": {
+                "id": "iso9001-1",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -28,6 +30,7 @@
         },
         {
             "info": {
+                "id": "iso9001-2",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -41,6 +44,7 @@
         },
         {
             "info": {
+                "id": "iso9001-3",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -54,6 +58,7 @@
         },
         {
             "info": {
+                "id": "iso9001-4",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -67,6 +72,77 @@
         },
         {
             "info": {
+                "id": "iso9001-5",
+                "category": "ISO9001",
+                "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+                "author": "Kate Tan",
+                "date": "December 7, 2021",
+                "tag": "CNTT - Viễn Thông",
+                "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg"
+            },
+            "blog": {
+
+            }
+        },
+        {
+            "info": {
+                "id": "iso9001-6",
+                "category": "ISO9001",
+                "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+                "author": "Kate Tan",
+                "date": "December 7, 2021",
+                "tag": "CNTT - Viễn Thông",
+                "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg"
+            },
+            "blog": {
+
+            }
+        },
+        {
+            "info": {
+                "id": "iso9001-7",
+                "category": "ISO9001",
+                "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+                "author": "Kate Tan",
+                "date": "December 7, 2021",
+                "tag": "CNTT - Viễn Thông",
+                "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg"
+            },
+            "blog": {
+
+            }
+        },
+        {
+            "info": {
+                "id": "iso9001-8",
+                "category": "ISO9001",
+                "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+                "author": "Kate Tan",
+                "date": "December 7, 2021",
+                "tag": "CNTT - Viễn Thông",
+                "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg"
+            },
+            "blog": {
+
+            }
+        },
+        {
+            "info": {
+                "id": "iso9001-9",
+                "category": "ISO9001",
+                "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+                "author": "Kate Tan",
+                "date": "December 7, 2021",
+                "tag": "CNTT - Viễn Thông",
+                "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg"
+            },
+            "blog": {
+
+            }
+        },
+        {
+            "info": {
+                "id": "iso9001-10",
                 "category": "ISO9001",
                 "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
                 "author": "Kate Tan",
@@ -81,24 +157,28 @@
     ],
     "list": [
         {
+            "id": "iso9001-01",
             "thumbnail": "assets/images/image-box/recent-post-1.jpg",
             "title":"Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
             "link": "/tin-tuc",
             "date": "December 7, 2021"
         },
         {
+            "id": "iso9001-01",
             "thumbnail": "assets/images/image-box/recent-post-1.jpg",
             "title":"Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
             "link": "/tin-tuc",
             "date": "December 7, 2021"
         },
         {
+            "id": "iso9001-01",
             "thumbnail": "assets/images/image-box/recent-post-1.jpg",
             "title":"Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
             "link": "/tin-tuc",
             "date": "December 7, 2021"
         },
         {
+            "id": "iso9001-01",
             "thumbnail": "assets/images/image-box/recent-post-1.jpg",
             "title":"Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
             "link": "/tin-tuc",
