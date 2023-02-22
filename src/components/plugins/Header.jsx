@@ -30,8 +30,8 @@ export default function Header({menuItem}) {
                                         <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel[1]}</a></span>
                                         <div className="socials-header">
                                             <ul className="widget-socials link-style-3">
-                                                <li><a href="https://www.facebook.com/MasterCert.vn" className="facebook"></a></li>
-                                                <li><a href="#" className="linked-in"></a></li>
+                                                <li><a href={company[0].fb} className="facebook"></a></li>
+                                                <li><a href={company[0].lkdin} className="linked-in"></a></li>
                                             </ul>
                                         </div>
                                     </div>

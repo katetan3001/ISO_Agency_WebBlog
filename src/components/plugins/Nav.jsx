@@ -64,7 +64,7 @@ export default function Nav({index}) {
     </div>
     <div id="site-header-right">
         <div className="header-search flat-show-search">
-            <a href="#" className="header-search-trigger show-search"></a>
+            <a href="/" className="header-search-trigger show-search"></a>
             <div className="widget widget-search top-search">
                 <form action="#" method="get" role="search" className="search-form">
                     <input type="search" id="s" className="search-field"
@@ -75,7 +75,7 @@ export default function Nav({index}) {
             </div>
         </div>
         <div className="header-menu">
-            <a href="#" className="header-menu-trigger"></a>
+            <a href="/" className="header-menu-trigger"></a>
             <div className="mobile-nav-toggler">
                 <span className="bar"></span>
                 <span className="bar"></span>

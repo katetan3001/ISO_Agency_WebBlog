@@ -31,8 +31,8 @@ export default function Footer() {
                         <p className="text-widget">Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs)</p>
                         <div className="widget-social">
                             <ul>
-                                <li key={0}><a href="#" className="facebook-icon"></a></li>
-                                <li key={1}><a href="#" className="linked-icon"></a></li>
+                                <li key={0}><a href={company[0].fb}className="facebook-icon"></a></li>
+                                <li key={1}><a href={company[0].fb} className="linked-icon"></a></li>
                             </ul>
                         </div>
                     </div>
