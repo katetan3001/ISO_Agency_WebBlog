@@ -54,7 +54,7 @@ export default function Nav({index}) {
                     <NavLink to='/tai-lieu'>Tài liệu</NavLink>
                 </li>
                 <li className={className[4].join(' ')}>
-                    <NavLink to='/tin-tuc'>Tin tức</NavLink>
+                    <NavLink to='http://blog.mastercert.vn'>Tin tức</NavLink>
                 </li>
                 <li className={className[5].join(' ')}>
                     <NavLink to='/kien-thuc'>Kiến thức về tiêu chuẩn</NavLink>

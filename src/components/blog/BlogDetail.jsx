@@ -18,11 +18,11 @@ export default function BlogDetail() {
                 <article className="post-content">
                     <h1 className="post-title">{blog.info.title}</h1>
                     <div className="post-author">
-                        <a href="/tin-tuc" className="btn-author section-14px-regular font-weight-500">{blog.info.category}</a>
+                        <a href="http://blog.mastercert.vn/" className="btn-author section-14px-regular font-weight-500">{blog.info.category}</a>
                         <div className="post-author-inner">
                             <img src="assets/images/image-box/author-post.jpg" alt="author" />
                             <div className="author-content link-style-2">
-                                <a href="/tin-tuc">{blog.info.author}</a><br/>
+                                <a href="http://blog.mastercert.vn/">{blog.info.author}</a><br/>
                                 <span>{blog.info.date}</span>
                             </div>
                         </div>
@@ -78,10 +78,10 @@ export default function BlogDetail() {
                     <div className="post-tags">
                         <div className="inner-left">
                             <span>Tag:</span>
-                            <a href="/tin-tuc">design</a>
-                            <a href="/tin-tuc">ui/ux design</a>
-                            <a href="/tin-tuc">graphics</a>
-                            <a href="/tin-tuc">icon</a>
+                            <a href="http://blog.mastercert.vn/">design</a>
+                            <a href="http://blog.mastercert.vn/">ui/ux design</a>
+                            <a href="http://blog.mastercert.vn/">graphics</a>
+                            <a href="http://blog.mastercert.vn/">icon</a>
                         </div>
                         <div className="inner-right">
                             <ul className="widget-socials link-style-2">
@@ -99,97 +99,6 @@ export default function BlogDetail() {
                         </div>
                     </div>
                 </article>
-                {/* <div id="comments">
-                    <h2 className="comments-title">Comments</h2>
-                    <ol className="comment-list">
-                        <li>
-                            <div className="comment-avatar">
-                                <img src="assets/images/image-box/comment-avatar-1.jpg" alt="images">
-                            </div>
-                            <div className="comment-content">
-                                <div className="comment-meta">
-                                    <div className="comment-time">December 7, 8.00</div>
-                                    <div className="comment-author">D. jhon shikon milon</div>
-                                </div>
-                                <div className="comment-text">
-                                    <p>Lorem available market standard dummy available market industry Lorem
-                                        Ipsum simply dummy text available market.There are many variations
-                                        of passages of Lorem Ipsum available,</p>
-                                </div>
-                                <div className="comment-reply">
-                                    <a href="#" className="like">LIKE</a>
-                                    <a href="#" className="reply">REPLY</a>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div className="comment-reply-box">
-                                <div className="comment-avatar">
-                                    <img src="assets/images/image-box/comment-avatar-2.jpg" alt="images">
-                                </div>
-                                <div className="comment-content">
-                                    <div className="comment-meta">
-                                        <div className="comment-time">December 7, 8.00</div>
-                                        <div className="comment-author">D. jhon shikon milon</div>
-                                    </div>
-                                    <div className="comment-text">
-                                        <p>Lorem available market standard dummy available market industry
-                                            Lorem Ipsum simply dummy.</p>
-                                    </div>
-                                    <div className="comment-reply">
-                                        <a href="#" className="like">LIKE</a>
-                                        <a href="#" className="reply">REPLY</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div className="comment-avatar">
-                                <img src="assets/images/image-box/comment-avatar-3.jpg" alt="images">
-                            </div>
-                            <div className="comment-content">
-                                <div className="comment-meta">
-                                    <div className="comment-time">December 7, 8.00</div>
-                                    <div className="comment-author">D. jhon shikon milon</div>
-                                </div>
-                                <div className="comment-text">
-                                    <p>Lorem available market standard dummy available market industry Lorem
-                                        Ipsum simply dummy text available market.There are many variations
-                                        of passages of Lorem Ipsum available,</p>
-                                </div>
-                                <div className="comment-reply">
-                                    <a href="#" className="like">LIKE</a>
-                                    <a href="#" className="reply">REPLY</a>
-                                </div>
-                            </div>
-                        </li>
-                    </ol>
-                    <div id="respond" className="respond-comment">
-                        <h2 className="comments-title">Leave A Reply</h2>
-                        <form method="post" id="contactform" className="comment-form form-submit"
-                            action="./contact/contact-process.php" accept-charset="utf-8"
-                            novalidate="novalidate">
-                            <div className="text-wrap clearfix">
-                                <fieldset className="name-wrap">
-                                    <input type="text" id="name" className="tb-my-input" name="name"
-                                        tabindex="1" placeholder="Name*" value="" size="32"
-                                        aria-required="true" required="">
-                                </fieldset>
-                                <fieldset className="email-wrap">
-                                    <input type="email" id="email" className="tb-my-input" name="email"
-                                        tabindex="2" placeholder="Email*" value="" size="32"
-                                        aria-required="true" required="">
-                                </fieldset>
-                            </div>
-                            <fieldset className="message-wrap">
-                                <textarea id="comment-message" name="message" rows="16" tabindex="4"
-                                    placeholder="write your comment" aria-required="true"></textarea>
-                            </fieldset>
-                            <button name="submit" type="submit" id="comment-reply"
-                                className="button btn-submit-comment">POST COMMENT</button>
-                        </form>
-                    </div>
-                </div> */}
             </div>
             <div className="col-lg-4 col-md-12">
               <SideTabs />
