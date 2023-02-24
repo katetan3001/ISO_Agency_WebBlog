@@ -18,7 +18,7 @@ export default function Blog() {
 
   const indexOfLastPost = currentPage * postsPerPage;
   const indexOfFirstPost = indexOfLastPost - postsPerPage;
-  const currentPosts = blogs.grid.slice(indexOfFirstPost, indexOfLastPost);
+  const currentPosts = blogs.slice(indexOfFirstPost, indexOfLastPost);
   const paginate = (pageNumber) => {
     setCurrentPage(pageNumber);
  };
@@ -35,7 +35,7 @@ export default function Blog() {
                     {currentPosts.map((el, i) => <BlogCard key={i} blogId={el.info.id} thumbnail={el.info.thumbnail} tag={el.info.tag} date={el.info.date} author={el.info.author} title={el.info.title} />)}
                     <Paginate
                         postsPerPage={postsPerPage}
-                        totalPosts={blogs.grid.length}
+                        totalPosts={blogs.length}
                         paginate={paginate}
                         currentPage={currentPage}
                     />

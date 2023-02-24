@@ -1,4 +1,5 @@
 import React from 'react'
+import blogs from "../../data/blogs.json"
 
 export default function FlatLatest() {
   return (
@@ -19,46 +20,26 @@ export default function FlatLatest() {
                         </div>
                     </div>
                 </div>
-                <div className="col-md-4">
-                    <div className="latest-content-box wow fadeInUp" data-wow-delay="0ms"
-                        data-wow-duration="1500ms">
-                        <div className="latest-post">
-                            <img src="assets/images/image-box/latest-post-1@2x.jpg" alt="images"/>
-                            <div className="post-date">25 JUN
-                                2021</div>
-                        </div>
-                        <div className="latest-content link-style-2">
-                            <a href="blog-details.html" className="heading">Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013</a>
-                            <div className="latest-content-bottom">
-                                <div className="post-readmore">
-                                    <a href="blog-details.html" className="read-more"><span className="text">Read
-                                            More</span></a>
+                {blogs.map((el, index) => 
+                    <div key={index} className="col-md-4">
+                        <div className="latest-content-box wow fadeInUp" data-wow-delay="0ms"
+                            data-wow-duration="1500ms">
+                            <div className="latest-post">
+                                <img src={el.info['latest-thumb']} alt="images"/>
+                                <div className="post-date">{el.info.date.split(",")[0].split(" ")[0].slice(0,3).toLocaleUpperCase()} <br/> {el.info.date.split(",")[0].split(" ")[1]}</div>
+                            </div>
+                            <div className="latest-content link-style-2">
+                                <a href={"/blog?"+el.info.id} className="heading">{el.info.title.length > 45 ? el.info.title.slice(0, 45)+" ..." : el.info.title}</a>
+                                <div className="latest-content-bottom">
+                                    <div className="post-readmore">
+                                        <a href={"/blog?"+el.info.id} className="read-more"><span className="text">Xem Thêm</span></a>
+                                    </div>
+                                    <span className="post-tag">{el.info.category}</span>
                                 </div>
-                                <span className="post-tag">ISO 27001</span>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div className="col-md-4">
-                    <div className="latest-content-box wow fadeInUp" data-wow-delay="300ms"
-                        data-wow-duration="1500ms">
-                        <div className="latest-post">
-                            <img src="assets/images/image-box/latest-post-2@2x.jpg" alt="images"/>
-                            <div className="post-date">25 JUN
-                                2021</div>
-                        </div>
-                        <div className="latest-content link-style-2">
-                            <a href="blog-details.html" className="heading">Các doanh nghiệp nào nên triển khai PCI DSS?</a>
-                            <div className="latest-content-bottom">
-                                <div className="post-readmore">
-                                    <a href="blog-details.html" className="read-more"><span className="text">Read
-                                            More</span></a>
-                                </div>
-                                <span className="post-tag">PCI DSS</span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                )}
             </div>
         </div>
     </section>

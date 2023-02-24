@@ -16,7 +16,7 @@ const routes = [
   { path: "/danh-muc", component: <Categories/> },
   { path: "/tai-lieu", component: <Documentation /> },
   { path: "/kien-thuc", component: <Knowledge /> },
-  { path: "http://blog.mastercert.vn", component: <Blog/> },
+  { path: "/tin-tuc", component: <Blog/> },
   { path: "/blog?", component: <BlogDetail/> },
   { path: "/lien-he", component: <Contact/> },
 ];
