@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-export default function ServiceCard({active, cert, imgPath}) {
+export default function ServiceCard({active, cert, imgPath, link}) {
   let className;
   active === true ? className = 'service-box active' : className = 'service-box';
   return (
@@ -15,7 +15,7 @@ export default function ServiceCard({active, cert, imgPath}) {
                 <h3>{cert}</h3>
                 <hr />
             </div>
-            <NavLink to={"/"} className="readmore">Tìm Hiểu Thêm</NavLink>
+            <NavLink to={link ? "/blog?"+link+"-0": "/tin-tuc"} className="readmore">Tìm Hiểu Thêm</NavLink>
         </div>
     </div>
     </div>

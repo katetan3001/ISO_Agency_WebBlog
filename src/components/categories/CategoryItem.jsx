@@ -10,12 +10,12 @@ export default function CategoryItem({category, title, img, link, description}) 
         </div>
         <div className="portfolio-layer-content">
             <div className="content">
-                <a href={link}>{title.includes('Tư vấn trọn gói lấy ') ? title.replace('Tư vấn trọn gói lấy ', "") : title.replace('Tư vấn và đánh giá ', "")}</a>
+                <a href={link ? ("/blog?" + link +"-0") : "/tin-tuc"}>{title.includes('Tư vấn trọn gói lấy ') ? title.replace('Tư vấn trọn gói lấy ', "") : title.replace('Tư vấn và đánh giá ', "")}</a>
                 <p>{description}</p>
             </div>
         </div>
         <div className="portfolio-readmore">
-            <a href={link} className="readmore"></a>
+            <a href={link ? ("/blog?" + link +"-0") : "/tin-tuc"} className="readmore"></a>
         </div>
     </div>
     </div>)

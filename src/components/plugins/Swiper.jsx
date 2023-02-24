@@ -1,4 +1,3 @@
-import { UNSAFE_convertRoutesToDataRoutes } from '@remix-run/router';
 import React from 'react'
 
 function Swiper({active, type, title, description, imgPath, clickPath, img}) {
@@ -24,7 +23,7 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
                     <img src={img}
                         alt={img.split('/')[4]}/>
                     <div className="post-readmore">
-                        <a href="service-details.html" className="read-more"><span className="text">Xem Thêm</span></a>
+                        <a href="/dich-vu" className="read-more"><span className="text">Xem Thêm</span></a>
                     </div>
                 </div>
             </div>
@@ -44,7 +43,7 @@ function Swiper({active, type, title, description, imgPath, clickPath, img}) {
                         </div>
                         <div className="text-wrap">
                             <h3 className="headline">{title}</h3>
-                            <a href={clickPath} className="url-wrap readmore">Xem Thêm</a>
+                            <a href={clickPath ? "/blog?"+clickPath+"-0" : "/"} className="url-wrap readmore">Xem Thêm</a>
                         </div>
                     </div>
                 </div>

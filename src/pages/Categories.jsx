@@ -27,7 +27,7 @@ export default function Categories() {
                         </div>
                     </div>
                     <div className="fl-gallery isotope-gl">
-                      {services[0].detailed.map((el, i) => {
+                      {services.map((el, i) => {
                         return <CategoryItem key={i} category={el.category} title={el.title} img={el.post.thumbnail} link={el.post.link} description={el.description} />
                       })}
                     </div>

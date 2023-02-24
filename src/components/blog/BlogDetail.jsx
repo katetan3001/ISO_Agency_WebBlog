@@ -10,17 +10,23 @@ export function renderBlog(tag, content, key) {
     case "h2":
       return <h2 key={key} className="post-title">{content.text}</h2>;
     case "h3": 
-      return <h3 key={key} className="post-title"> {content.text} </h3>
+      return <h3 key={key} className="post-title"> {content.text} </h3>;
+    case "h4": 
+    return <h4 key={key} className="post-title"> {content.text} </h4>
     case "p":
       return <p key={key}>{content.text}</p>;
     case "post-media":
-      return (
+      return content.quote || content.text ? (
         <div className="post-media" key={key}>
           <img src={content.img} alt={content.img} />
           <blockquote>
-            <h4>{content.quote}</h4>
-            <p>{content.text}</p>
+            <h4>{content.quote ? content.quote : " -------- "}</h4>
+            <p>{content.text ? content.text : " -------- "}</p>
           </blockquote>
+        </div>
+      ) : (
+        <div className="post-media" key={key}>
+          <img src={content.img} alt={content.img} />
         </div>
       );
     case "post-title":
@@ -112,7 +118,7 @@ export default function BlogDetail() {
                   <div className="prev-link">
                     <a
                       href={`/blog?${
-                        blogs[blogs.findIndex((el) => el == post) ? blogs.findIndex((el) => el == post) - 1 : 0]
+                        blogs[blogs.findIndex((el) => el === post) ? blogs.findIndex((el) => el === post) - 1 : 0]
                           .info.id
                       }`}
                       className="button readmore-prev btn-style2"
@@ -123,7 +129,7 @@ export default function BlogDetail() {
                   <div className="next-link">
                     <a
                       href={`/blog?${
-                        blogs[blogs.findIndex((el) => el == post) + 1]
+                        blogs[blogs.findIndex((el) => el === post) + 1]
                           .info.id
                       }`}
                       className="button readmore"

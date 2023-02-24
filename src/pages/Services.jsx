@@ -31,8 +31,8 @@ export default function Services() {
                             <p>Triết lý kinh doanh của MasterCert là đồng hành và làm hài lòng khách hàng mọi nơi mọi lúc. Hỗ trợ trọn gói lấy chứng chỉ quốc tế ISO và các tiêu chuẩn, chứng chỉ bảo mật quốc tế.</p>
                         </div>
                     </div>
-                    {services[0].card.map((el, i) => 
-                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.img} /> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.img} />)}
+                    {services.map((el, i) => 
+                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.post.thumbnail} link={el.post.link}/> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.post.thumbnail} link={el.post.link}/>)}
                 </div>
             </div>
         </section>

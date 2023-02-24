@@ -2419,6 +2419,14 @@ a:focus {
     margin-bottom: 23px;
 }
 
+h3.post-title {
+    font-size: 24px;
+}
+
+h4.post-title {
+    font-size: 20px;
+}
+
 .flat-blog .post-content-wrap .post-title::before {
     position   : absolute;
     left       : 0;
