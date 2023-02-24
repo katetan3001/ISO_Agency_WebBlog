@@ -7,7 +7,7 @@
             "author": "Kate Tan",
             "date": "December 7, 2022",
             "tag": "CNTT - Viễn Thông",
-            "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg",
+            "thumbnail": "assets/images/image-box/testimonial-post-1@2x.jpg",
             "recent-thumb": "assets/images/image-box/recent-post-1.jpg",
             "latest-thumb": "assets/images/image-box/latest-post-1@2x.jpg"
         },
@@ -72,7 +72,7 @@
                 "content":{
                     "quote": "Để có được chứng chỉ ISO 9001:2015 MasterCert sẽ đồng hành cùng Khách hàng qua 3 giai đoạn triển khai tư vấn, đánh giá bao gồm:",
                     "text": "Xác định phạm vi (1), Đánh giá (2), cấp chứng chỉ (3)",
-                    "img": "assets/images/image-box/blog-single-post@2x.jpg"
+                    "img": "assets/images/image-box/testimonial-post-1@2x.jpg"
                 }
             },
             {
@@ -94,6 +94,124 @@
                         "Khảo sát về các loại hình kinh doanh, công nghệ sản xuất áp dụng, đối tượng Khách hàng, đối tác hoặc các đơn vị cung ứng liên quan, Hệ thống Quy trình tài liệu đang áp dụng (Processes), con người vận hành hệ thống QMS. Khách hàng cần cung cấp các địa điểm (location) có hoạt động kinh doanh ",
                         "Phỏng vấn: Trong giai đoạn xác định phạm vi MasterCert sẽ tiến hành phỏng vấn, thu thập thông tin cần thiết để việc xác định phạm vi được chính xác đồng thời hoạch định quản lý các rủi ro trong quá trình triển khai dịch vụ. ",
                         "Đào tạo: sau khi xác định phạm vi MasterCert tiến hành các hoạt động đào tạo nhận thức tới toàn bộ nhân viên liên quan trong tổ chức của Khách hàng"
+                    ]
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "B. Giai đoạn đánh giá (Assessment)"
+                }
+            },
+            {
+                "tag": "h4",
+                "content":{
+                    "text": "Phase 1: Xây dựng Hệ thống Quản lý chất lượng (QMS)"
+                }
+            },
+            {
+                "tag": "p",
+                "content":{
+                    "text": "- Sau khi xác định phạm vi Các chuyên gia của MasterCert tiến hành xem xét Hệ thống QMS đang áp dụng của Khách hàng. Trong trường hợp, Khách hàng chưa xây dựng hệ thống Hệ thống quản lý chất lượng MasterCert sẽ tiến hành soạn thảo các quy trình Hệ thống, xây dựng các biện pháp kiểm soát phù hợp với bối cảnh doanh nghiệp của Khách hàng."
+                }
+            },
+            {
+                "tag": "h4",
+                "content":{
+                    "text": "Phase 2: Triển khai và áp dụng QMS"
+                }
+            },
+            {
+                "tag": "p",
+                "content":{
+                    "text": "- Khách hàng phổ biến các tài liệu Hệ thống quản lý chất lượng tới toàn bộ nhân viên, MasterCert thực hiện đào tạo nội bộ trong quá trình vận hành, cũng như đưa ra các khuyến nghị cải tiến Hệ thống khi áp dụng"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "- Khách hàng áp dụng các biện pháp kiểm soát và lưu trữ các hồ sơ trong quá trình vận hành"
+                }
+            },
+            {
+                "tag": "h4",
+                "content":{
+                    "text": "Phase 3: Đánh giá nội bộ QMS"
+                }
+            },
+            {
+                "tag":"p",
+                "content":{
+                    "text": "- MasterCert thực hiện đánh giá nội bộ và đào tạo đánh giá nội bộ cho Khách hàng, hướng dẫn khắc phục NC, hướng dẫn họp xem xét lãnh đạo."
+                }
+            },
+            {
+                "tag":"h4",
+                "content":{
+                    "text": "Phase 4: Đánh giá Chứng nhận "
+                }
+            },
+            {
+                "tag":"p",
+                "content":{
+                    "text": "- Hạng mục đánh giá chứng nhận được thực hiện do tổ chức thứ Ba do Khách hàng lựa chọn (có thể là các tổ chức quốc tế BSI, Tuv-Nord, hoặc bất kỳ tổ chức tại Việt Nam có năng lực cấp chứng chỉ)"
+                }
+            },
+            {
+                "tag":"p",
+                "content":{
+                    "text": "- Tổ chức thứ Ba sẽ thực hiện đánh giá 2 giai đoạn, xác nhận sự phù hợp và chỉ ra các điểm không phù hợp (NC), MasterCert sẽ thực hiện khắc phục các điểm NC cho Hệ thống quản lý chất lượng của Khách hàng."
+                }
+            },
+            {
+                "tag":"h4",
+                "content":{
+                    "text": "Giai đoạn cấp chứng chỉ (Certificate)"
+                }
+            },
+            {
+                "tag":"p",
+                "content":{
+                    "text": "- Sau khi Các NC được MasterCert hỗ trợ Khách hàng khắc phục, Tổ chức cấp chứng chỉ sẽ phê duyệt hồ sơ và cấp chứng chỉ cho Khách hàng. MasterCert cam kết đồng hành với Khách hàng cho tới khi Khách hàng nhận được chứng chỉ."
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Chúng tôi giúp gì được bạn: "
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sự khác biệt về dịch của MasterCert đó là giảm thiểu chi phí cho khách hàng với thời gian nhanh nhất (chúng tôi cung cấp gói dịch vụ đầy đủ với chi phí thấp nhất thị trường bao gồm: Tư vấn cách thức triển khai lấy chứng chỉ - Xây dựng hệ thống QMS cho khách hàng(bao gồm hệ thống tài liệu, Khách hàng đóng vai trò xem xét và phê duyệt tài liệu - Đào tạo nhận thức cho nhân viên – Hướng dẫn vận hành hệ thống, lưu giữ hồ sơ – Đánh giá nội bộ và hướng dẫn đánh giá nội bộ - Khắc phục NC, đồng hành với Khách hàng cho tới khi Khách hàng nhận chứng chỉ."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Với các chuyên gia kinh nghiệm nhiều năm làm việc tại các đơn vị tư vấn, và đơn vị cấp chứng chỉ (CB) Chúng tôi hiểu rõ hoạt động kinh doanh của bạn, thấu hiểu từng hoạt động nghiệp vụ doanh nghiệp của bạn từ đó xây dựng Hệ thống QMS phù hợp với doanh nghiệp của bạn. Không chỉ là lấy Chứng chỉ, chúng tôi mang lại hiệu quả thực sự cho quá trình vận hành kinh doanh  của Khách hàng. Chúng tôi MasterCert tự hào khẳng định sẽ đem lại cho Khách Hàng trải nghiệm dịch vụ tốt nhất, thời gian nhanh nhất với chi phí rẻ nhất thị trường. "
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "Những khách hàng đã sử dụng dịch vụ:  "
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sau đây là những khách hàng tiêu biểu sử dụng dịch vụ của MasterCert"
+                }
+            },
+            {
+                "tag": "post-media-box",
+                "content":{
+                    "img": [
+                        "assets/images/image-box/blog-post-1@2x.jpg",
+                        "assets/images/image-box/blog-post-3@2x.jpg",
+                        "assets/images/image-box/blog-post-2@2x.jpg"
                     ]
                 }
             }

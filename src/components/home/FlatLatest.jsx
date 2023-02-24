@@ -29,7 +29,7 @@ export default function FlatLatest() {
                                 <div className="post-date">{el.info.date.split(",")[0].split(" ")[0].slice(0,3).toLocaleUpperCase()} <br/> {el.info.date.split(",")[0].split(" ")[1]}</div>
                             </div>
                             <div className="latest-content link-style-2">
-                                <a href={"/blog?"+el.info.id} className="heading">{el.info.title.length > 45 ? el.info.title.slice(0, 45)+" ..." : el.info.title}</a>
+                                <a href={"/blog?"+el.info.id} className="heading">{el.info.title.length > 50 ? el.info.title.slice(0, 49)+" ..." : el.info.title}</a>
                                 <div className="latest-content-bottom">
                                     <div className="post-readmore">
                                         <a href={"/blog?"+el.info.id} className="read-more"><span className="text">Xem Thêm</span></a>
