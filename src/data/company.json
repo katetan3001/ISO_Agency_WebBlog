@@ -1,7 +1,7 @@
 [{
     "adress": "Số 125/2/27 Thụy Phương, Bắc Từ Liêm, Hà Nội",
-    "email":"contact@mastercert.vn",
-    "tel": "(+84)0903190491",
+    "email": ["contact@mastercert.vn", "mastercert.vn@gmail.com"],
+    "tel": ["(+84)0903190491", "(+84)0978919251"],
     "fb": "https://www.facebook.com/mastercert.vn",
     "lkdin": "https://www.linkedin.com/"
 }, 
@@ -9,23 +9,23 @@
     "footerBlogs": [
         {
             "title": "Sổ Tay Hướng Dẫn ISO 9001",
-            "link": ""
+            "link": "/blog?iso9001-0"
         },
         {
             "title": "Diễn Giải ISO TC 176SC",
-            "link": ""
+            "link": "/blog?iso9001-0"
         },
         {
             "title": "Sổ Tay Hướng Dẫn Đánh Giá Hệ Thống Quản Lý",
-            "link": ""
+            "link": "/blog?iso9001-0"
         },
         {
             "title": "Lý Lịch Chuyên Gia",
-            "link": ""
+            "link": "/blog?iso9001-0"
         },
         {
             "title": "Các Câu Hỏi Thường Gặp ISO 9001",
-            "link": ""
+            "link": "/blog?iso9001-0"
         }
     ]
 }]
