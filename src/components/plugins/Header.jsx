@@ -27,7 +27,7 @@ export default function Header({menuItem}) {
                                                 href="mailto:contact@mastercert.vn">{company[0].email[0]}</a></span>
                                     </div>
                                     <div className="top-bar-right">
-                                        <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel[1]}</a></span>
+                                        <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel[0]}</a></span>
                                         <div className="socials-header">
                                             <ul className="widget-socials link-style-3">
                                                 <li><a href={company[0].fb} className="facebook"></a></li>
