@@ -1,5 +1,5 @@
 <?php
-$address = "themesflat@gmail.com";
+$address = "mastercert.vn@gmail.com";
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 
 $error = false;
