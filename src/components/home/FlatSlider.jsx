@@ -15,7 +15,7 @@ export default function FlatSlider() {
                                     <h2>Lấy Chứng Nhận Quốc Tế "dễ dàng và nhanh chóng"</h2>
                                     <p>Với những chuyên gia có "tiếng" trong lĩnh vực tiêu chuẩn quốc tế, MasterCert cam kết nhanh chóng hoàn thiện hồ sơ tài liệu, khắc phục các điểm chưa phù hợp với tiêu chuẩn và đồng hành cùng khách hàng đến khi lấy được chứng nhận.</p>
                                     <div className="button-slider">
-                                        <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
+                                        <a href="/lien-he" className="button readmore">Tư Vấn Miễn Phí</a>
                                     </div>
                                 </div>
                             </div>
@@ -34,7 +34,7 @@ export default function FlatSlider() {
                                     <h2>Đưa doanh nghiệp vươn tầm thế giới</h2>
                                     <p>Bằng kinh nghiệm và kiến thức tích lũy qua nhiều năm, MasterCert đã, đang và sẽ góp sức kiến tạo các doanh nghiệp Việt Nam nâng cao được chất lượng dịch vụ và đạt chuẩn mực quốc tế để hội nhập với thời đại nền kinh tế mở, kinh tế toàn cầu hóa.</p>
                                     <div className="button-slider">
-                                        <a href="contact.html" className="button readmore">Tư Vấn Miễn Phí</a>
+                                        <a href="/lien-he" className="button readmore">Tư Vấn Miễn Phí</a>
                                     </div>
                                 </div>
                             </div>

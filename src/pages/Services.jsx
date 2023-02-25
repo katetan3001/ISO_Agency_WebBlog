@@ -1,4 +1,5 @@
 import React from 'react'
+import Title from '../components/plugins/Title'
 import Footer from '../components/plugins/Footer'
 import Header from '../components/plugins/Header'
 import ServiceCard from '../components/plugins/ServiceCard'
@@ -12,18 +13,7 @@ export default function Services() {
     <>
     <Header menuItem={2}/>
     <div>
-        <section className="flat-title-page parallax parallax-3">
-            <div className="container-fluid">
-                <div className="row">
-                    <div className="breadcrumbs">
-                        <h2 className="section-title-page">Danh Sách Dịch Vụ</h2>
-                        <div className="breadcrumb-trail link-style-4">
-                            <a className="home" href="index.html">Home</a><span>Dịch Vụ</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <Title title={'Danh Sách Dịch Vụ'} page={'Dịch Vụ'} />
         <section className="tf-space flat-service">
             <div className="container">
                 <div className="row">
@@ -41,8 +31,8 @@ export default function Services() {
                             <p>Triết lý kinh doanh của MasterCert là đồng hành và làm hài lòng khách hàng mọi nơi mọi lúc. Hỗ trợ trọn gói lấy chứng chỉ quốc tế ISO và các tiêu chuẩn, chứng chỉ bảo mật quốc tế.</p>
                         </div>
                     </div>
-                    {services[0].card.map((el, i) => 
-                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.img} /> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.img} />)}
+                    {services.map((el, i) => 
+                    i=== 1 ? <ServiceCard key={i} active={true} cert={el.title} imgPath={el.post.thumbnail} link={el.post.link}/> : <ServiceCard key={i} active={false} cert={el.title} imgPath={el.post.thumbnail} link={el.post.link}/>)}
                 </div>
             </div>
         </section>

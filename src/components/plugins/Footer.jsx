@@ -31,8 +31,8 @@ export default function Footer() {
                         <p className="text-widget">Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs)</p>
                         <div className="widget-social">
                             <ul>
-                                <li key={0}><a href="#" className="facebook-icon"></a></li>
-                                <li key={1}><a href="#" className="linked-icon"></a></li>
+                                <li key={0}><a href={company[0].fb}className="facebook-icon"></a></li>
+                                <li key={1}><a href={company[0].fb} className="linked-icon"></a></li>
                             </ul>
                         </div>
                     </div>
@@ -42,21 +42,21 @@ export default function Footer() {
                                 <h3 className="widget-title-link-wrap">Về MasterCert</h3>
                                 <div className="widget-links">
                                     <ul className="link-wrap">
-                                        <li key={0}><NavLink to={"/ve-chung-toi"}/> Giới Thiệu</li>
-                                        <li key={1}><NavLink to={"/dich-vu"} /> Dịch Vụ</li>
-                                        <li key={2}><NavLink to={"/dich-muc"} /> Danh Mục</li>
+                                        <li><NavLink to={"/ve-chung-toi"}> Giới Thiệu </NavLink></li>
+                                        <li><NavLink to={"/dich-vu"}> Dịch Vụ </NavLink></li>
+                                        <li><NavLink to={"/lien-he"}>Liên Hệ </NavLink></li>
                                     </ul>
                                     <ul className="link-wrap">
-                                        <li key={0}><NavLink to={"/tai-lieu"}/>Tài Liệu</li>
-                                        <li key={1}><NavLink to={"/kien-thuc"} />Kiến Thức</li>
-                                        <li key={2}><NavLink to={"/tin-tuc"} />Tin Tức</li>
+                                        <li key={0}><NavLink to={"/danh-muc"}>Danh Mục </NavLink></li>
+                                        <li key={1}><NavLink to={"/kien-thuc"}>Kiến Thức </NavLink></li>
+                                        <li key={2}><NavLink to={"/tin-tuc"}>Tin Tức</NavLink></li>
                                     </ul>
                                 </div>
                             </div>
                             <div className="menu-2">
                                 <h3 className="widget-title-link-wrap">Bài Viết Hữu Ích</h3>
                                 <ul className="link-wrap menu2">
-                                    {company[1].footerBlogs.map((el, i) => <li key={i}><a href={el.link}>{el.title}</a></li>)}
+                                    {company[1].footerBlogs.map((el, i) => <li key={i}><NavLink to={el.link}>{el.title}</NavLink></li>)}
                                 </ul>
                             </div>
                             <div className="menu-3">
@@ -65,10 +65,10 @@ export default function Footer() {
                                     <li key={0}>
                                         <span className="meta-address">{company[0].adress}</span>
                                     </li>
-                                    <li key={1}><a href={'mailto:' + company[0].email}
-                                            className="meta-mail">{company[0].email}</a>
+                                    <li key={1}><a href={'mailto:' + company[0].email[0]}
+                                            className="meta-mail">{company[0].email[0]}</a>
                                     </li>
-                                    <li key={2}><a href={'tel:' + company[0].tel} className="meta-phone">{company[0].tel}</a></li>
+                                    <li key={2}><a href={'tel:' + company[0].tel[0]} className="meta-phone">{company[0].tel[0]}</a></li>
                                 </ul>
                             </div>
                         </div>

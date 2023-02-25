@@ -495,7 +495,7 @@ input[type="reset"],
 input[type="submit"] {
     line-height       : 1;
     cursor            : pointer;
-    -webkit-appearance: button;
+    appearance: button;
     border            : 0;
 }
 
@@ -511,13 +511,13 @@ input[type="radio"] {
 }
 
 input[type="search"] {
-    -webkit-appearance: textfield;
+    appearance: textfield;
     /* Addresses appearance set to searchfield in S5, Chrome */
 }
 
 input[type="search"]::-webkit-search-decoration {
     /* Corrects inner padding displayed oddly in S5, Chrome on OSX */
-    -webkit-appearance: none;
+    appearance: none;
 }
 
 button::-moz-focus-inner,
@@ -654,7 +654,7 @@ input[type="submit"] {
     border-radius     : 4px;
     padding           : 18px 23px;
     display           : inline-block;
-    -webkit-appearance: none;
+    appearance: none;
     -webkit-transition: all ease 0.3s;
     -moz-transition   : all ease 0.3s;
     transition        : all ease 0.3s;
@@ -2416,6 +2416,14 @@ a:focus {
     position     : relative;
     padding-left : 21px;
     margin-bottom: 23px;
+}
+
+h3.post-title {
+    font-size: 24px;
+}
+
+h4.post-title {
+    font-size: 20px;
 }
 
 .flat-blog .post-content-wrap .post-title::before {
@@ -4938,6 +4946,7 @@ a:focus {
 
 .flat-portfolio .portfolio-box .portfolio-media img {
     width: 100%;
+    max-height: 353px;
 }
 
 .flat-portfolio .portfolio-box .portfolio-readmore {
@@ -5214,10 +5223,9 @@ a:focus {
     color: var(--primary-color6);
 }
 .flat-contact .features-content-left {
-    color        : #fff;
+    color        : #01739d;
     margin-bottom: 31px;
 }
-
 .flat-contact .contact-icon-box {
     background-color: #fff;
     border-radius   : 6px;
@@ -5227,7 +5235,7 @@ a:focus {
 
 .flat-contact .contact-icon-box .icon {
     display         : inline-block;
-    float           : left;
+    /* float           : left; */
     width           : 60px;
     height          : 60px;
     line-height     : 60px;
@@ -5258,7 +5266,7 @@ a:focus {
     font-size  : 30px;
     font-family: 'Barlow', sans-serif;
     line-height: 36px;
-    color      : #fff;
+    color      : #01739d;
 }
 
 .flat-contact .contact-form {

@@ -3,7 +3,7 @@ $address = "mastercert.vn@gmail.com";
 if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 
 $error = false;
-$fields = array( 'name', 'email', 'message' );
+$fields = array( 'name', 'email', 'message','phone' );
 
 foreach ( $fields as $field ) {
 	if ( empty($_POST[$field]) || trim($_POST[$field]) == '' )
@@ -15,6 +15,7 @@ if ( !$error ) {
 	$name = stripslashes($_POST['name']);
 	$email = trim($_POST['email']);	
 	$message = stripslashes($_POST['message']);
+	$phone = trim($_POST['phone']);
 
 	$e_subject = 'You\'ve been contacted by ' . $name . '.';
 	
@@ -25,7 +26,7 @@ if ( !$error ) {
 
 	$e_body = "You have been contacted by: $name" . PHP_EOL . PHP_EOL;
 	$e_reply = "E-mail: $email" . PHP_EOL . PHP_EOL;
-	$e_content = "Message:\r\n$message \r\n" . PHP_EOL;
+	$e_content = "Message:\r\n$message \r\n Phone: $phone" . PHP_EOL;
 	
 
 	$msg = wordwrap( $e_body . $e_reply , 70 );

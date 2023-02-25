@@ -24,14 +24,14 @@ export default function Header({menuItem}) {
                                     <div className="top-bar-left">
                                         <span className="map section-14px-regular">{company[0].adress}</span>
                                         <span className="mail section-14px-regular"><a
-                                                href="mailto:contact@mastercert.vn">{company[0].email}</a></span>
+                                                href="mailto:consalti.business@gmail.com">{company[0].email[0]}</a></span>
                                     </div>
                                     <div className="top-bar-right">
-                                        <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel}</a></span>
+                                        <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel[1]}</a></span>
                                         <div className="socials-header">
                                             <ul className="widget-socials link-style-3">
-                                                <li><a href="https://www.facebook.com/MasterCert.vn" className="facebook"></a></li>
-                                                <li><a href="#" className="linked-in"></a></li>
+                                                <li><a href={company[0].fb} className="facebook"></a></li>
+                                                <li><a href={company[0].lkdin} className="linked-in"></a></li>
                                             </ul>
                                         </div>
                                     </div>
