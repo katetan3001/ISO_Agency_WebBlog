@@ -54,7 +54,7 @@
         "img": "assets/images/image-box/services/pci-dss.png",
         "category": ["telecom","payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.png",
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
             "link": "pci-dss"
         }
     },
@@ -94,7 +94,7 @@
         "img": "assets/images/image-box/services/iso-22301.png",
         "category": ["telecom", "payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.png",
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
             "link": ""
         }
     },
@@ -104,7 +104,7 @@
         "img": "assets/images/image-box/services/iso-22301.png",
         "category": ["payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.png",
+            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
             "link": ""
         }
     }
