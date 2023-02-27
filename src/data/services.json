@@ -5,7 +5,7 @@
         "img": "assets/images/image-box/services/iso-9001.png",
         "category": ["telecom", "payment", "manufacture"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-9001.png",
             "link": "iso9001"
         }
     },
@@ -15,7 +15,7 @@
         "img": "assets/images/image-box/services/iso-20000.png",
         "category": ["telecom"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-20000.png",
             "link": ""
         }
     },
@@ -24,7 +24,7 @@
         "description": "Chứng nhận ISO 22000:2005 tạo ra một tiêu chuẩn an toàn thực phẩm duy nhất kết hợp hài hòa các tiêu chuẩn quốc gia khác nhau thành một bộ yêu cầu dễ hiểu, dễ áp ​​dụng và được công nhận trên toàn thế giới.",
         "img": "assets/images/image-box/services/iso-22000.png",
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-22000.png",
             "link": ""
         }
     },
@@ -34,7 +34,7 @@
         "img": "assets/images/image-box/services/iso-27001.png",
         "category": ["telecom", "payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/servicesiso-27001.png",
             "link": ""
         }
     },
@@ -44,7 +44,7 @@
         "img": "assets/images/image-box/services/iso-27017.png",
         "category": ["telecom"], 
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-27017.png",
             "link": ""
         }
     },
@@ -54,7 +54,7 @@
         "img": "assets/images/image-box/services/pci-dss.png",
         "category": ["telecom","payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/pci-dss.png",
             "link": "pci-dss"
         }
     },
@@ -64,7 +64,7 @@
         "img": "assets/images/image-box/services/iso-14001.png",
         "category": ["manufacture"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-14001.png",
             "link": ""
         }
     },
@@ -74,7 +74,7 @@
         "img": "assets/images/image-box/services/iso-45001.png",
         "category": ["manufacture"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-45001.png",
             "link": ""
         }
     },
@@ -84,7 +84,7 @@
         "img": "assets/images/image-box/services/iso-22301.png",
         "category": ["telecom"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/iso-22301.png",
             "link": ""
         }
     },
@@ -94,7 +94,7 @@
         "img": "assets/images/image-box/services/iso-22301.png",
         "category": ["telecom", "payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/pci-dss.png",
             "link": ""
         }
     },
@@ -104,7 +104,7 @@
         "img": "assets/images/image-box/services/iso-22301.png",
         "category": ["payment"],
         "post": {
-            "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
+            "thumbnail": "assets/images/image-box/services/pci-dss.png",
             "link": ""
         }
     }
