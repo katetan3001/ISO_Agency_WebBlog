@@ -39,26 +39,22 @@ export default function Nav({index}) {
                 <li className={className[2].join(' ')}>
                     <NavLink to='/dich-vu'>Danh sách dịch vụ</NavLink>
                     <ul className="sub-menu">
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 9001</NavLink></li>
+                        <li className="menu-item"><NavLink to='/blog?pcidss'>Tư vấn trọn gói PCI DSS</NavLink></li>
+                        <li className="menu-item"><NavLink to='/blog?iso27001'>Tư vấn trọn gói ISO 27001</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27017</NavLink></li>
+                        <li className="menu-item"><NavLink to='/blog?iso9001-0'>Tư vấn trọn gói ISO 9001</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22000</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 20000</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22301</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27001</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 27017</NavLink></li>
-                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói PCI DSS</NavLink></li>
+                        <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói ISO 22301</NavLink></li>                      
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SWIFT</NavLink></li>
                         <li className="menu-item"><NavLink to='/dich-vu'>Tư vấn trọn gói SOC v1,2,3</NavLink></li>
                     </ul>
                 </li>
-                <li className={className[3].join(' ')}>
-                    <NavLink to='/tai-lieu'>Tài liệu</NavLink>
-                </li>
+                
                 <li className={className[4].join(' ')}>
-                    <NavLink to='/tin-tuc'>Tin tức</NavLink>
+                    <NavLink to='/tin-tuc'>Kiến thức & Tài liệu tiêu chuẩn</NavLink>
                 </li>
-                <li className={className[5].join(' ')}>
-                    <NavLink to='/kien-thuc'>Kiến thức về tiêu chuẩn</NavLink>
-                </li>
+                
             </ul>
         </nav>
     </div>

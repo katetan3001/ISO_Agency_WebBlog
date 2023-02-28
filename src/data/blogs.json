@@ -4,27 +4,30 @@
             "id": "iso9001-0",
             "category": "ISO9001",
             "title": "Dịch Vụ Tư Vấn Cấp Chứng Chỉ ISO-9001",
-            "author": "Kate Tan",
-            "date": "December 7, 2022",
+            "author": "MasterCert",
+            "date": "",
             "tag": "CNTT - Viễn Thông",
-            "thumbnail": "assets/images/image-box/testimonial-post-1@2x.jpg",
-            "recent-thumb": "assets/images/image-box/recent-post-1.jpg",
-            "latest-thumb": "assets/images/image-box/latest-post-1@2x.jpg"
+            "thumbnail": "assets/images/image-box/services/iso-9001.png",
+            "recent-thumb": "assets/images/image-box/services/iso-9001.png",
+            "latest-thumb": "assets/images/image-box/services/iso-9001.png"
         },
         "blog": [
             {
                 "tag": "post-title",
-                "content": {"text": "Lịch sử hình thành ISO 9001:2015"}
+                "content": {
+                    "text": "Lịch sử hình thành ISO 9001:2015"
+                }
             },
             {
                 "tag": "p",
-                "content": {"text": "Khái niệm tiêu chuẩn quốc tế cho ngành sản xuất chế tạo được giới thiệu lần đầu tại Châu  u vào thập niên 80, dẫn đầu bởi các sáng kiến từ Vương Quốc Anh, Tiêu chuẩn Anh BS5750, Tiêu chuẩn đưa ra các yêu cầu cho Công ty tham gia vào quá trình đảm bảo chất lượng, sản xuất, lắp đặt, kiểm tra và thử nghiệm. Sự phát triển của Liên minh châu  u đã khuyến khích thương mại nhiều hơn giữa các nước châu  u và nhu cầu về Tiêu chuẩn sản phẩm càng trở nên rõ ràng hơn. Năm 1987 ISO 9000 do ISO (International Organization for Standardization-Tổ chức Tiêu chuẩn hóa quốc tế được thành lập ngày 23 tháng 2 năm 1947) được ban hành lần đầu tiên.  ISO 9000:1987 thay thế cho Tiêu chuẩn BS 5750 và trở thành một tiêu chuẩn Quốc tế cho ngành sản xuất chế tạo và cung ứng dịch vụ. Ban đầu ISO 9000:1987 bao gồm tập hợp 3 Tiêu chuẩn:"}
+                "content": {
+                    "text": "Khái niệm tiêu chuẩn quốc tế cho ngành sản xuất chế tạo được giới thiệu lần đầu tại Châu  u vào thập niên 80, dẫn đầu bởi các sáng kiến từ Vương Quốc Anh, Tiêu chuẩn Anh BS5750, Tiêu chuẩn đưa ra các yêu cầu cho Công ty tham gia vào quá trình đảm bảo chất lượng, sản xuất, lắp đặt, kiểm tra và thử nghiệm. Sự phát triển của Liên minh châu  u đã khuyến khích thương mại nhiều hơn giữa các nước châu  u và nhu cầu về Tiêu chuẩn sản phẩm càng trở nên rõ ràng hơn. Năm 1987 ISO 9000 do ISO (International Organization for Standardization-Tổ chức Tiêu chuẩn hóa quốc tế được thành lập ngày 23 tháng 2 năm 1947) được ban hành lần đầu tiên.  ISO 9000:1987 thay thế cho Tiêu chuẩn BS 5750 và trở thành một tiêu chuẩn Quốc tế cho ngành sản xuất chế tạo và cung ứng dịch vụ. Ban đầu ISO 9000:1987 bao gồm tập hợp 3 Tiêu chuẩn:"
+                }
             },
             {
                 "tag": "post-list-quotes",
                 "content": {
-                    "list": 
-                    [
+                    "list": [
                         "ISO 9001: 1987 Yêu cầu đảm bảo chất lượng cho các công ty tham gia vào thiết kế, phát triển, sản xuất, lắp đặt và dịch vụ",
                         "ISO 9002: 1987. Yêu cầu đảm bảo chất lượng cho các công ty tham gia vào sản xuất, lắp đặt và dịch vụ; Về cơ bản các yêu cầu tương tự như ISO 9001 nhưng không có thiết kế các sản phẩm mới",
                         "ISO 9003: 1987. Đảm bảo chất lượng trong quá trình giám sát cuối và kiểm thử sản phẩm, tiêu chuẩn áp dụng cho quá trình hình thành sản phẩm tại giai đoạn cuối cùng và giai đoạn kiểm thử hoàn thiện sản phẩm."
@@ -46,7 +49,7 @@
             {
                 "tag": "post-title",
                 "content": {
-                    "text":  "ISO 9001:2015 giúp gì được cho công ty / tổ chức của bạn"
+                    "text": "ISO 9001:2015 giúp gì được cho công ty / tổ chức của bạn"
                 }
             },
             {
@@ -57,19 +60,19 @@
             },
             {
                 "tag": "p",
-                "content":{
+                "content": {
                     "text": "Ngoài những lợi ích kể trên việc đạt chứng chỉ ISO 9001:2015 cũng là sự khẳng định của tổ chức về năng lực Hệ thống quản lý chất lượng sản phẩm dịch vụ thỏa mãn yêu cầu của Khách hàng, và là thước đo sự tin cậy, làm tăng uy tín của doanh nghiệp. Hơn nữa, đạt được chứng chỉ ISO 9001 cũng giúp doanh nghiệp có thêm năng lực cạnh tranh trong hoạt động đấu thầu, mở rộng bạn hàng, đối tác kinh doanh."
                 }
             },
             {
                 "tag": "post-title",
-                "content":{
+                "content": {
                     "text": "Khách hàng lấy chứng ISO 9001:2015 như thế nào."
                 }
             },
             {
                 "tag": "post-media",
-                "content":{
+                "content": {
                     "quote": "Để có được chứng chỉ ISO 9001:2015 MasterCert sẽ đồng hành cùng Khách hàng qua 3 giai đoạn triển khai tư vấn, đánh giá bao gồm:",
                     "text": "Xác định phạm vi (1), Đánh giá (2), cấp chứng chỉ (3)",
                     "img": "assets/images/image-box/testimonial-post-1@2x.jpg"
@@ -105,25 +108,25 @@
             },
             {
                 "tag": "h4",
-                "content":{
+                "content": {
                     "text": "Phase 1: Xây dựng Hệ thống Quản lý chất lượng (QMS)"
                 }
             },
             {
                 "tag": "p",
-                "content":{
+                "content": {
                     "text": "- Sau khi xác định phạm vi Các chuyên gia của MasterCert tiến hành xem xét Hệ thống QMS đang áp dụng của Khách hàng. Trong trường hợp, Khách hàng chưa xây dựng hệ thống Hệ thống quản lý chất lượng MasterCert sẽ tiến hành soạn thảo các quy trình Hệ thống, xây dựng các biện pháp kiểm soát phù hợp với bối cảnh doanh nghiệp của Khách hàng."
                 }
             },
             {
                 "tag": "h4",
-                "content":{
+                "content": {
                     "text": "Phase 2: Triển khai và áp dụng QMS"
                 }
             },
             {
                 "tag": "p",
-                "content":{
+                "content": {
                     "text": "- Khách hàng phổ biến các tài liệu Hệ thống quản lý chất lượng tới toàn bộ nhân viên, MasterCert thực hiện đào tạo nội bộ trong quá trình vận hành, cũng như đưa ra các khuyến nghị cải tiến Hệ thống khi áp dụng"
                 }
             },
@@ -135,43 +138,43 @@
             },
             {
                 "tag": "h4",
-                "content":{
+                "content": {
                     "text": "Phase 3: Đánh giá nội bộ QMS"
                 }
             },
             {
-                "tag":"p",
-                "content":{
+                "tag": "p",
+                "content": {
                     "text": "- MasterCert thực hiện đánh giá nội bộ và đào tạo đánh giá nội bộ cho Khách hàng, hướng dẫn khắc phục NC, hướng dẫn họp xem xét lãnh đạo."
                 }
             },
             {
-                "tag":"h4",
-                "content":{
+                "tag": "h4",
+                "content": {
                     "text": "Phase 4: Đánh giá Chứng nhận "
                 }
             },
             {
-                "tag":"p",
-                "content":{
+                "tag": "p",
+                "content": {
                     "text": "- Hạng mục đánh giá chứng nhận được thực hiện do tổ chức thứ Ba do Khách hàng lựa chọn (có thể là các tổ chức quốc tế BSI, Tuv-Nord, hoặc bất kỳ tổ chức tại Việt Nam có năng lực cấp chứng chỉ)"
                 }
             },
             {
-                "tag":"p",
-                "content":{
+                "tag": "p",
+                "content": {
                     "text": "- Tổ chức thứ Ba sẽ thực hiện đánh giá 2 giai đoạn, xác nhận sự phù hợp và chỉ ra các điểm không phù hợp (NC), MasterCert sẽ thực hiện khắc phục các điểm NC cho Hệ thống quản lý chất lượng của Khách hàng."
                 }
             },
             {
-                "tag":"h4",
-                "content":{
+                "tag": "h4",
+                "content": {
                     "text": "Giai đoạn cấp chứng chỉ (Certificate)"
                 }
             },
             {
-                "tag":"p",
-                "content":{
+                "tag": "p",
+                "content": {
                     "text": "- Sau khi Các NC được MasterCert hỗ trợ Khách hàng khắc phục, Tổ chức cấp chứng chỉ sẽ phê duyệt hồ sơ và cấp chứng chỉ cho Khách hàng. MasterCert cam kết đồng hành với Khách hàng cho tới khi Khách hàng nhận được chứng chỉ."
                 }
             },
@@ -207,7 +210,7 @@
             },
             {
                 "tag": "post-media-box",
-                "content":{
+                "content": {
                     "img": [
                         "assets/images/image-box/blog-post-1@2x.jpg",
                         "assets/images/image-box/blog-post-3@2x.jpg",
@@ -219,18 +222,535 @@
     },
     {
         "info": {
-            "id": "pci-dss",
+            "id": "pcidss",
             "category": "PCI-DSS",
-            "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
-            "author": "Kate Tan",
-            "date": "December 7, 2021",
-            "tag": "CNTT - Viễn Thông",
-            "thumbnail": "assets/images/image-box/blog-post-1@2x.jpg",
-            "recent-thumb": "assets/images/image-box/recent-post-1.jpg",
-            "latest-thumb": "assets/images/image-box/latest-post-1@2x.jpg"
+            "title": "Dịch Vụ Tư Vấn Cấp Chứng Chỉ PCI DSS",
+            "author": "MasterCert",
+            "date": "",
+            "tag": "PCI DSS",
+            "thumbnail": "assets/images/image-box/services/PCI-DSS 169.png",
+            "recent-thumb": "assets/images/image-box/services/PCI-DSS 169.png",
+            "latest-thumb": "assets/images/image-box/services/PCI-DSS 169.png"
         },
-        "blog": {
-
-        }
+        "blog": [
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Giới thiệu về tiêu chuẩn PCI DSS"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Tiêu chuẩn bảo mật dữ liệu thẻ thanh toán (PCI DSS) được phát triển để khuyến khích và tăng cường bảo mật dữ liệu tài khoản thẻ thanh toán đồng thời tạo điều kiện cho giải pháp bảo mật dữ liệu thẻ thanh toán được chấp nhận rộng rãi toàn cầu. PCI DSS cung cấp một nền tảng các yêu cầu dựa trên công nghệ và vận hành được thiết kế để bảo vệ dữ liệu thẻ chống lại các mối de doạ và các nguy cơ mất an toàn bảo mật trong hệ sinh thái thanh toán."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Trải qua 14 năm PCI DSS hiện tại đã công bố phiên bản mới nhất V.4.0 được ban hành vào tháng 3 năm 2022. Về mặt tiêu chuẩn PCI DSS bao gồm 12 yêu cầu chính, các yêu cầu về bảo mật chi tiết, các hướng dẫn kiểm tra cho đơn vị QSA (là đơn vị được uỷ quyền từ PCI SCC có quyền cấp chứng chỉ PCI DSS cho các tổ chức lưu trữ, xử lý, truyền tải dữ liệu chủ thẻ hoặc dữ liệu xác thực nhạy cảm trong hoạt động kinh doanh của họ). Tiêu chuẩn cũng cung cấp các thông tin phụ trợ phù hợp với từng yêu cầu, các hướng dẫn chi tiết, và thực tiễn tốt nhất để hỗ trợ các Tổ chức chuẩn bị, thực hiện và báo cáo kết quả đánh giá PCI DSS. Bảng dưới đây là các yêu cầu chính của tiêu chuẩn PCI DSS V.4.0"
+                }
+            },
+            {
+                "tag": "post-media",
+                "content": {
+                    "img": "assets/images/image-box/services/PCI DSS high level overview.png"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Tổ chức của bạn thuộc phạm vi cần lấy chứng chỉ PCI DSS?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Nếu tổ chức của bạn tham gia vào quá trình xử lý thẻ thanh toán năm trong 5 vài trò liệt kê ở đây bao gồm: đơn vị bán lẻ (B2C), đơn vị xử lý giao dịch, Ngân hàng (acquirer), đơn vị phát hành thẻ, và đơn vị cung cấp dịch vụ tổ chức của bạn cần có chứng nhận PCI DSS. Ngoài ra nếu tổ chức của bạn có thực hiện lưu trữ, xử lý hoặc truyền tải dữ liệu tài khoản, Tổ chức bạn cũng cần phải có chứng nhận PCI DSS. Hãy liên hệ MasterCert khi tổ chức của bạn thuộc các vai trò kể trên để nhận được dịch vụ tốt nhất với các chuyên gia có kinh nghiệm nhiều năm. Việc lấy chứng chỉ PCI DSS có thể là sự bắt buộc đối với tổ chức của bạn khi đối tác yêu cầu, thông thường đến từ các nhà băng hoặc các đối tác kinh doanh với tổ chức của bạn họ sẽ yêu cầu tổ chức của bạn cần lấy chứng chỉ PCI DSS sau đó mới cho phép kết nối trao đổi dữ liệu. Ngoài ra bạn cũng nên cân nhắc những ích lợi PCI DSS đem lại khi tổ chức bạn theo đuổi và nắm giữ chứng chỉ PCI DSS mà MasterCert thống kê dưới đây:"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Xây dựng niềm tin với khách hàng của bạn"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Niềm tin là nền tảng của kinh doanh thành công. Nhưng khách hàng tin tưởng vào dịch vụ của bạn sẽ giới thiệu dịch vụ của bạn tới các khách hàng tiềm năng khác. Niềm tiên của khách hàng là một trong những tài sản quý giá nhất của doanh nghiệp bạn."
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Ngăn ngừa lộ lọt dữ liệu tài khoản"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Quản lý dữ liệu và tuân thủ các hoạt động bảo mật là những vấn đề cần cân nhắc chính khi xây dựng cơ sở hạ tầng CNTT, đặc biệt nếu doanh nghiệp bạn đang xử lý hoặc lưu trữ dữ liệu nhạy cảm của khách hàng. Vậy nên mỗi doanh nghiệp tuân thủ PCI là mục tiêu kém giá trị hơn đối với tội phạm mạng. Chúng sẽ không chỉ gặp khó khăn hơn nhiều khi hack mạng của doanh nghiệp bạn mà còn không tìm thấy dữ liệu mà chúng đang tìm kiếm."
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Nâng tầm Tổ chức bạn ở hàng Quốc tế"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Tiêu chuẩn PCI DSS được khởi xướng bởi 5 tổ chức thẻ hàng đầu thế giới để cung cấp mức độ bảo vệ bắt buộc cho người tiêu dùng bằng cách đảm bảo rằng các thương nhân đáp ứng mức độ bảo mật tối thiểu khi họ lưu trữ, xử lý và truyền dữ liệu chủ thẻ. Đạt được sự tuân thủ PCI cho phép doanh nghiệp bạn thay thế các nhà bán lẻ và doanh nghiệp quốc tế khác."
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Bảo mật thông tin là yếu tố hàng đầu"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Tuân thủ PCI DSS yêu cầu doanh nghiệp bạn phải có nhiều lớp bảo mật thông qua tường lửa được cấu hình đúng. Doanh nghiệp bạn cũng cần một chiến lược bảo mật CNTT tổng thể  dựa trên các mối đe dọa hiện tại và giám sát mạng các lỗ hổng đã biết và cập nhật các bản vá."
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Tiền đề vững chắc để xây dựng Hệ thống an toàn bảo mật thông tin"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Bất kể doanh nghiệp bạn đáp ứng mức độ 1, 2, 3 hoặc 4, đạt được sự tuân thủ của PCI DSS có nghĩa là doanh nghiệp bạn đã thực hiện các bước quan trọng để bảo vệ dữ liệu của khách hàng. Điều này cũng là cơ sở để doanh nghiệp bạn có thể đạt được nhưng cải tiến trong Hệ thống an toàn bảo mật thông tin và là tiền để doanh nghiệp bạn bổ sung các tiêu chuẩn khác như ISO"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Khách hàng lấy chứng chỉ PCI DSS như thế nào?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Để có được chứng chỉ PCI DSS MasterCert sẽ đồng hành cùng Khách hàng qua 3 giai đoạn triển khai tư vấn, đánh giá bao gồm: xác định phạm vi (1), Đánh giá (2), cấp chứng chỉ (3)"
+                }
+            },
+            {
+                "tag": "post-media",
+                "content": {
+                    "img": "assets/images/image-box/services/quy trinh mastercert.png"
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "1. Giai đoạn xác định phạm vi (Scoping)"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Trong giai đoạn này MasterCert sẽ tiến hành xác định phạm vi cấp chứng chỉ của Khách hàng bao gồm các nội dung chi tiết sau:"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Khảo sát: Hệ thống network của doanh nghiệp, các thiết bị tương tác như nào với dữ liệu thẻ, các luồng truyền tải dữ liệu thẻ, khu vực lưu trữ, xử lý dữ liệu thẻ. Các địa điểm tham gia vào quá trình vận hành kinh doanh liên quan tới dữ liệu thẻ. Đồng thời khảo sát các công nghệ thông tin (technologies) doanh nghiệp đang áp dụng, quy mô con người vận hành, nhận thức ATTT của nhân viên (People), và Hệ thống quy trình tài liệu quản lý ATTT của doanh nghiệp (processes)",
+                        "Phỏng vấn: Trong giai đoạn xác định phạm vi MasterCert sẽ tiến hành phỏng vấn, thu thập thông tin cần thiết để việc xác định phạm vi được chính xác đồng thời hoạch định quản lý các rủi ro trong quá trình triển khai dịch vụ",
+                        "Báo cáo phạm vi: Sau khi tiến hành khảo sát, MasterCert sẽ cung cấp báo cáo phạm vi để thống nhất với Khách hàng",
+                        "Đào tạo: sau khi xác định phạm vi MasterCert đồng thời tiến hành các hoạt động đào tạo nhận thức tới toàn bộ nhân viên liên quan trong tổ chức của Khách hàng"
+                    ]
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "2. Giai đoạn đánh giá (Assessment)"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 1: Đánh giá GAP"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Đơn vị cấp chứng chỉ tiến hành đánh giá Hệ thống network công nghệ thông tin theo tiêu chuẩn PCI DSS hiện hành, trong quá trình đánh giá sẽ ghi nhận những điểm phù hợp và điểm chưa phù hợp (GAP). Khách Hàng cần khắc phục hết những điểm chưa phù hợp (NC) để đạt được chứng chỉ"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 2: Khắc phục GAP"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "MasterCert khắc phục NC cho khách hàng, đối với các NC cần phải mua sắm thiết bị đầu tư công nghệ MasterCert giúp Khách hàng đưa ra các giải pháp  phù hợp với bối cảnh doanh nghiệp khách hàng với tiêu chí nhanh chóng, tiết kiệm, hiệu quả"
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "3. Giai đoạn cấp chứng chỉ (Certificate)"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sau khi Các NC được MasterCert hỗ trợ Khách hàng khắc phục, Tổ chức cấp chứng chỉ sẽ phê duyệt hồ sơ và cấp chứng chỉ PCI DSS cho Khách hàng. MasterCert cam kết đồng hành với Khách hàng cho tới khi Khách hàng nhận được chứng chỉ"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "MasterCert giúp gì được bạn?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sự khác biệt về dịch của MasterCert đó là giảm thiểu chi phí cho khách hàng với thời gian nhanh nhất (chúng tôi cung cấp gói dịch vụ đầy đủ với chi phí thấp nhất thị trường bao gồm: Tư vấn cách thức triển khai lấy chứng chỉ"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Xây dựng hệ thống ISMS cho khách hàng(bao gồm hệ thống tài liệu, Khách hàng đóng vai trò xem xét và phê duyệt tài liệu",
+                        "Đào tạo nhận thức cho nhân viên",
+                        "Hướng dẫn vận hành hệ thống, lưu giữ hồ sơ",
+                        "Khắc phục NC, đồng hành với Khách hàng cho tới khi Khách hàng nhận chứng chỉ"
+                    ]
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Với các chuyên gia kinh nghiệm nhiều năm làm việc tại các đơn vị tư vấn, và đơn vị cấp chứng chỉ (CB) Chúng tôi hiểu rõ hoạt động kinh doanh của bạn, thấu hiểu từng hoạt động nghiệp vụ doanh nghiệp của bạn từ đó xây dựng Hệ thống mạng CNTT phù hợp với doanh nghiệp của bạn. Không chỉ là lấy Chứng chỉ, chúng tôi mang lại hiệu quả thực sự cho quá trình vận hành kinh doanh  của Khách hàng. Chúng tôi MasterCert tự hào khẳng định sẽ đem lại cho Khách Hàng trải nghiệm dịch vụ tốt nhất, thời gian nhanh nhất với chi phí rẻ nhất thị trường"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Những Khách hàng đã tin tưởng sử dụng dịch vụ của MasterCert"
+                }
+            },
+            {
+                "tag": "post-media",
+                "content": {
+                    "img": "assets/images/image-box/services/doi tac.png"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Những câu hỏi thường gặp để lấy chứng chỉ"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "1) Thời gian lấy chứng chỉ PCI DSS  là bao nhiêu lâu?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Thời gian lấy chứng chỉ trung bình từ 4-6 tháng tuỳ thuộc vào Hệ thống mạng công nghệ thông tin của Khách hàng đáp ứng tiêu chuẩn PCI DSS"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "2) Để lấy chứng chỉ PCI DSS Doanh nghiệp chúng tôi cần phải làm những gì?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Để có được chứng chỉ, Doanh nghiệp cần trải qua trình đánh giá từ đơn vị thứ Ba là đơn vị đánh giá cấp chứng chỉ (ISO Certification body). Nếu Hệ thống mạng CNTT của doanh nghiệp phù hợp với các yêu cầu của tiêu chuẩn PCI DSS, đơn vị đánh giá sẽ cấp chứng chỉ cho doanh nghiệp"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "3) Công ty chúng tôi không có nguồn lực hạn chế tuy nhiên cần có chứng chỉ PCI DSS  phục vụ kinh doanh, vây MasterCert có giải pháp gì không?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "MasterCert đồng hành với Doanh nghiệp cho tới khi Doanh nghiệp nhận được chứng chỉ. Không giống như các đơn vị tư vấn khác MasterCert trực tiếp xây dựng Hệ thống CNTT phù hợp với bối cảnh của khách hàng do vậy nguồn lực triển khai của Khách hàng bỏ ra là thấp nhất, tiết kiệm chi phí khi nhân lực của Khách hàng vẫn có thể làm các công việc thường nhật phục vụ doanh nghiệp"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "4) Chi phí lấy chứng chỉ là bao nhiêu?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Chi phí từ MasterCert căn cứ theo phạm vi Hệ thống CNTT của Doanh nghiệp, phạm vi sản phẩm dịch vụ muốn lấy chứng chỉ. Chúng tôi cam kết Chi phí rẻ nhất thị trường, dịch vụ tận tâm, cam kết đầu ra dịch vụ"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "5) Phương thức thanh toán?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Khách hàng sau khi ký kết hợp đồng với MasterCert tiến hành tạm ứng 30% giá trị HĐ trong vòng 3 ngày làm việc. 70% giá trị HĐ còn lại sẽ thanh toán trong vòng 5 ngày làm việc ngay khi Khách hàng nhận được chứng chỉ"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "6) Nếu Công ty tôi sử dụng dịch vụ tư vấn của MasterCert, Bên MasterCert sẽ hỗ trợ tới mức nào?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "MasterCert hỗ trợ khách hàng tới khi Khách hàng nhận được chứng chỉ mới cần thanh toán. Trong quá trình triển khai dịch vụ MasterCert thực hiện hầu hết các nhiệm vụ cho Doanh Nghiệp từ viết quy trình xây dựng hệ thống ISMS, tới đào tạo, đánh giá nội bộ, khắc phục các điểm NC"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "7) Chứng chỉ ISO PCI DSS có thời hạn trong bao lâu?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Chứng chỉ có thời hạn 1 năm kể từ ngày cấp. Đơn vị cấp chứng chỉ sẽ tái đánh giá hàng năm để cấp lại chứng chỉ"
+                }
+            }
+        ]
+    },
+    {
+        "info": {
+            "id": "iso27001",
+            "category": "ISO 27001",
+            "title": "Dịch Vụ Tư Vấn Cấp Chứng Chỉ ISO 27001",
+            "author": "MasterCert",
+            "date": "",
+            "tag": "ISO 27001",
+            "thumbnail": "assets/images/image-box/services/iso-27001.png",
+            "recent-thumb": "assets/images/image-box/services/iso-27001.png",
+            "latest-thumb": "assets/images/image-box/services/iso-27001.png"
+        },
+        "blog": [
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Giới thiệu về tiêu chuẩn ISO 27001"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Bảo mật thông tin, an ninh mạng và bảo vệ quyền riêng tư đang là những nhu cầu cực kì quan trọng với tất cả các công ty, tổ chức hiện nay và ISO/IEC 27001 đang là tiêu chuẩn nổi tiếng và áp dụng phổ biến nhất thế giới về hệ thống quản lý an toàn thông tin (ISMS) đáp ứng được các nhu cầu đó."
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "ISO 27001 giúp gì được cho công ty / tổ chức của bạn?"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Bạn muốn đảm bảo an ninh/an toàn thông tin cho công ty, tổ chức của bạn? Chính xác là việc áp dụng ISO/IEC 27001 giúp công ty, tổ chức của bạn bổ sung các biện pháp, phương pháp để bảo vệ tài sản thông tin một cách tối ưu nhất. Qua nhiều lần cập nhật và chỉnh sửa để phù hợp với sự phát triển không ngừng của công nghệ, phiên bản mới nhất của ISO/IEC 27001 đang là phiên bản ISO/IEC 27001:2022",
+                        "ISO/IEC 27001 phù hợp với tất cả với ngành nghề, quy mô và cơ chế quản lý của các công ty, tổ chức. Chỉ cần công ty, tổ chức của bạn có tài sản thông tin (hợp đồng file cứng, cam kết file cứng, máy tính, điện thoại, máy in, thiết bị cửa từ, camera, dữ liệu khách hàng, dữ liệu kế toán, …) là đều có thể áp dụng ISO/IEC 27001 để đảm bảo an toàn cho các tài sản thông tin của bạn",
+                        "Cải thiện tính bảo mật của thông tin nhạy cảm: ISO 27001 giúp các tổ chức thiết lập và duy trì cách tiếp cận có hệ thống để quản lý thông tin nhạy cảm và bảo vệ thông tin đó khỏi các mối đe dọa",
+                        "Bảo vệ dữ liệu nâng cao: Tiêu chuẩn yêu cầu các tổ chức triển khai các biện pháp kỹ thuật và biện pháp kiểm soát phù hợp để bảo vệ dữ liệu, điều này có thể làm giảm nguy cơ vi phạm dữ liệu và các sự cố an toàn thông tin khác",
+                        "Tăng sự tin tưởng của khách hàng: Các tổ chức tuân thủ ISO 27001 thể hiện cam kết của họ đối với bảo mật dữ liệu và có thể giành được sự tin tưởng của khách hàng, đối tác và cơ quan quản lý",
+                        "Cải thiện hiệu quả kinh doanh: Việc triển khai ISO 27001 giúp các tổ chức hợp lý hóa các quy trình an toàn thông tin của họ, giảm thời gian và nguồn lực cần thiết để quản lý rủi ro an toàn thông tin",
+                        "Quản lý rủi ro tốt hơn: Tiêu chuẩn cung cấp một khuôn khổ để xác định, đánh giá và giảm thiểu rủi ro bảo mật thông tin, có thể giúp các tổ chức đưa ra quyết định sáng suốt về đầu tư cho an toàn thông tin và phân bổ nguồn lực hiệu quả",
+                        "Tuân thủ các quy định: ISO 27001 giúp các tổ chức tuân thủ các tiêu chuẩn và quy định bảo vệ dữ liệu khác nhau, chẳng hạn như GDPR, HIPAA và PCI-DSS"
+                    ]
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Khách hàng lấy chứng chỉ ISO 27001 như thế nào?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Để có được chứng chỉ ISO 27001 MasterCert sẽ đồng hành cùng Khách hàng qua 3 giai đoạn triển khai tư vấn, đánh giá bao gồm: xác định phạm vi (1), Đánh giá (2), cấp chứng chỉ (3)"
+                }
+            },
+            {
+                "tag": "post-media",
+                "content": {
+                    "img": "assets/images/image-box/services/quy trinh mastercert.png"
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "1. Giai đoạn xác định phạm vi (Scoping)"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Trong giai đoạn này MasterCert sẽ tiến hành xác định phạm vi cấp chứng chỉ của Khách hàng bao gồm các nội dung chi tiết sau:"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Khảo sát về các Công nghệ (Technologies) Khách hàng đang sử dụng, con người vận hành hệ thống (People) và Hệ thống Quy trình tài liệu đang áp dụng (Processes), ngoài các thông tin chung Khách hàng cần cung cấp các địa điểm (location) hoạt động kinh doanh và loại hình kinh doanh đang vận hành",
+                        "Phỏng vấn: Trong giai đoạn xác định phạm vi MasterCert sẽ tiến hành các hoạt động phỏng vấn, thu thập thông tin cần thiết để việc xác định phạm vi được chính xác đồng thời hoạch định quản lý các rủi ro trong quá trình triển khai dịch vụ",
+                        "Đào tạo: sau khi xác định phạm vi MasterCert tiến hành các hoạt động đào tạo nhận thức tới toàn bộ nhân viên liên quan trong tổ chức của Khách hàng"
+                    ]
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "2. Giai đoạn đánh giá (Assessment)"
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 1: Xây dựng ISMS"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Sau khi xác định phạm vi Các chuyên gia của MasterCert tham gia dự án sẽ tiến hành đánh giá hệ thống",
+                        "Trong trường hợp công ty/tổ chức chưa xây dựng hệ thống ISMS, MasterCert sẽ tiến hành soạn thảo các quy trình hệ thống, hồ sơ và xây dựng các biện pháp kiểm soát phù hợp với năng lực của khách hàng"
+                    ]
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 2: Triển khai và áp dụng ISMS"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Công ty/tổ chức phổ biến các tài liệu Hệ thống tới toàn bộ nhân viên, MasterCert thực hiện đào tạo nội bộ trong quá trình vận hành",
+                        "Công ty/tổ chức thực hiện các biện pháp kiểm soát và lưu trữ các hồ sơ trong quá trình vận hành"
+                    ]
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 3: Đánh giá nội bộ"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "MasterCert thực hiện đánh giá nội bộ và đào tạo đánh giá nội bộ cho Khách hàng, hướng dẫn khắc phục NC (điểm chưa phù hợp với tiêu chuẩn), hướng dẫn họp xem xét lãnh đạo"
+                    ]
+                }
+            },
+            {
+                "tag": "h4",
+                "content": {
+                    "text": "Phase 4: Đánh giá chứng nhận"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Việc đánh giá chứng nhận được thực hiện do tổ chức thứ Ba do Khách hàng lựa chọn (có thể là các tổ chức quốc tế BSI, Tuv-Nord, hoặc bất kỳ tổ chức có năng lực nào khác)",
+                        "Tổ chức thứ Ba sẽ thực hiện đánh giá 2 giai đoạn, xác nhận sự phù hợp và chỉ ra các điểm không phù hợp (NC), MasterCert sẽ thực hiện khắc phục các điểm NC cho Hệ thống của Khách hàng"
+                    ]
+                }
+            },
+            {
+                "tag": "h3",
+                "content": {
+                    "text": "3. Giai đoạn cấp chứng chỉ (Certificate)"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sau khi Các NC được MasterCert hỗ trợ Khách hàng khắc phục, Tổ chức cấp chứng chỉ sẽ phê duyệt hồ sơ và cấp chứng chỉ ISO 27001 cho Khách hàng. MasterCert cam kết đồng hành với Khách hàng cho tới khi Khách hàng nhận được chứng chỉ"
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "MasterCert giúp gì được bạn?"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Tập trung tìm hiểu chi tiết các quy trình, hoạt động, sản phẩm, văn hóa, hệ thống của khách hàng",
+                        "Đánh giá chi tiết các điểm đã tuân thủ và chưa tuân thủ với tiêu chuẩn trong toàn bộ phạm vi đánh giá của khách hàng",
+                        "Đưa ra tư vấn và cùng khách hàng khắc phục các điểm chưa tuân thủ với tiêu chuẩn để sẵn sàng cho đánh giá lấy chứng chỉ (bao gồm cả việc hoàn thiện hồ sơ về quy trình, quy định, hướng dẫn công việc, các tài liệu bằng chứng trong việc áp dụng tiêu chuẩn, …)",
+                        "Đồng hành cùng khách hàng trong suốt quá trình đánh giá cuối cùng (final audit) từ bên chứng nhận",
+                        "Chúng tôi tư vấn, hỗ trợ phù hợp với tất cả các tổ chức đánh giá lấy chứng nhận quốc tế (BSI, Tuvnord, SISA, Bureau Veritas, ControlCase, CMC, FPT, Crossbowlabs, ….)",
+                        "Hỗ trợ đào tạo nhận thức để đảm bảo duy trì tuân thủ với tiêu chuẩn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "info": {
+            "id": "iso27001-thaydoi",
+            "category": "ISO27001",
+            "title": "Điểm thay đổi, cải tiến của ISO 27001:2022 so với phiên bản 2013",
+            "author": "MasterCert",
+            "date": "",
+            "tag": "CNTT - Viễn Thông",
+            "thumbnail": "assets/images/image-box/services/iso thumb.jpg",
+            "recent-thumb": "assets/images/image-box/services/iso thumb.jpg",
+            "latest-thumb": "assets/images/image-box/services/iso thumb.jpg"
+        },
+        "blog": {}
     }
 ]

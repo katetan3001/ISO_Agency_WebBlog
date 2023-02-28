@@ -8,24 +8,24 @@
 {
     "footerBlogs": [
         {
-            "title": "Sổ Tay Hướng Dẫn ISO 9001",
+            "title": "Tư vấn ISO 9001",
             "link": "/blog?iso9001-0"
         },
         {
-            "title": "Diễn Giải ISO TC 176SC",
-            "link": "/blog?iso9001-0"
+            "title": "Tư vấn PCI DSS",
+            "link": "/blog?pcidss"
         },
         {
-            "title": "Sổ Tay Hướng Dẫn Đánh Giá Hệ Thống Quản Lý",
-            "link": "/blog?iso9001-0"
+            "title": "Tư vấn ISO 27001",
+            "link": "/blog?iso27001"
         },
         {
-            "title": "Lý Lịch Chuyên Gia",
-            "link": "/blog?iso9001-0"
+            "title": "Tư vấn ISO 27017",
+            "link": "/blog?iso27017"
         },
         {
-            "title": "Các Câu Hỏi Thường Gặp ISO 9001",
-            "link": "/blog?iso9001-0"
+            "title": "Tư vấn ISO 20000",
+            "link": "/blog?iso20000"
         }
     ]
 }]
