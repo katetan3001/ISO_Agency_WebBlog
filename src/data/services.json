@@ -6,7 +6,7 @@
         "category": ["telecom","payment"],
         "post": {
             "thumbnail": "assets/images/image-box/services/pci-dss.jpg",
-            "link": "pci-dss"
+            "link": "pcidss"
         }
     },
     {
@@ -16,7 +16,7 @@
         "category": ["telecom", "payment"],
         "post": {
             "thumbnail": "assets/images/image-box/services/iso.jpg",
-            "link": ""
+            "link": "iso27001"
         }
     },
     {
