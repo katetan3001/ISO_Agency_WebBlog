@@ -24,7 +24,7 @@ export default function Header({menuItem}) {
                                     <div className="top-bar-left">
                                         <span className="map section-14px-regular">{company[0].adress}</span>
                                         <span className="mail section-14px-regular"><a
-                                                href="mailto:contact@mastercert.vn">{company[0].email[0]}</a></span>
+                                                href="mailto:mastercert.vn@gmail.com">{company[0].email[0]}</a></span>
                                     </div>
                                     <div className="top-bar-right">
                                         <span className="phone section-14px-regular"><a href="tel:0903190491">{company[0].tel[0]}</a></span>
