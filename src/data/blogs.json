@@ -490,7 +490,7 @@
             {
                 "tag": "p",
                 "content": {
-                    "text": "Để có được chứng chỉ, Doanh nghiệp cần trải qua trình đánh giá từ đơn vị thứ Ba là đơn vị đánh giá cấp chứng chỉ (ISO Certification body). Nếu Hệ thống mạng CNTT của doanh nghiệp phù hợp với các yêu cầu của tiêu chuẩn PCI DSS, đơn vị đánh giá sẽ cấp chứng chỉ cho doanh nghiệp"
+                    "text": "Để có được chứng chỉ, Doanh nghiệp cần trải qua trình đánh giá từ đơn vị thứ Ba là đơn vị đánh giá cấp chứng chỉ. Nếu Hệ thống mạng CNTT của doanh nghiệp phù hợp với các yêu cầu của tiêu chuẩn PCI DSS, đơn vị đánh giá sẽ cấp chứng chỉ cho doanh nghiệp"
                 }
             },
             {
@@ -737,6 +737,155 @@
                     ]
                 }
             }
+        ]
+    },
+
+    {
+        "info": {
+            "id": "pcidss-4-level",
+            "category": "PCI-DSS",
+            "title": "4 level tuân thủ PCI DSS - Công ty bạn thuộc level nào?",
+            "author": "MasterCert",
+            "date": "",
+            "tag": "PCI DSS",
+            "thumbnail": "assets/images/image-box/services/PCI-DSS 169.png",
+            "recent-thumb": "assets/images/image-box/services/PCI-DSS 169.png",
+            "latest-thumb": "assets/images/image-box/services/PCI-DSS 169.png"
+        },
+        "blog": [
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Nghiệp vụ kinh doanh tổ chức của bạn có đang liên quan tới thu thập, sử dụng, lưu trữ, xử lý hoặc truyền tải thông tin thanh toán dữ liệu chủ thẻ?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Nếu câu trả lời là có hẳn bạn đã nghe nói tới Tiêu chuẩn PCI DSS (Payment Card Industry Data Security Standard). Nếu bạn chưa nghe nói tới,  hãy để Mastercert làm rõ cho bạn nhé: để cho dễ hiểu PCI DSS là tiêu chuẩn được tạo ra bởi các Công ty thẻ tín dụng lớn như Visa, Mastercard, Discovery, American Express, and JCB (5 thương hiệu thẻ lớn) thiết lập ra các yêu cầu cụ thể mà đơn vị chấp nhận thanh toán thẻ (merchant) cũng như nhà cung cấp dịch vụ thẻ (service provider) phải tuân thủ để bảo vệ dự liệu thẻ người dùng."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Đây là một tiêu chuẩn lớn, và để tuân thủ PCI DSS cần rất nhiều nguồn lực và các task công việc, vì vậy việc đầu tiên cần thiết lập để triển khai và duy trì tuân thủ PCI là việc tổ chức cần hiểu về khung tiêu chuẩn, các khái niệm đưa ra đồng thời hiểu rõ về các level tuân thủ, và cách các level tuân thủ ảnh hưởng tới các yêu cầu tuân thủ."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Sau đây là các định nghĩa và các level tuân thủ mà tổ chức bạn cần biết."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Merchant: theo Payment Card Industry Security Standard Council (PCI SSC), merchant được định nghĩa như sau “A merchant is defined as any entity that accepts payment cards bearing the logos of any of the five members of PCI SSC (American Express, Discover, JCB, MasterCard or Visa) as payment for goods and/or services.” Theo định nghĩa merchant là bất kỳ tổ chức nào chấp nhận thanh toán bằng thẻ từ 5 thương hiệu thẻ, thuộc thành viên của PCI SSC."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Nếu tổ chức của bạn chấp nhận thẻ thanh toán từ 5 thương hiệu kể trên, tổ chức bạn cần tuân thủ theo Tiêu chuẩn PCI DSS và tổ chức cần xác định level PCI DSS cần tuân thủ."
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Có 4 mức độ (level) tuân thủ PCI DSS đối với tổ chức chấp nhận thanh toán thẻ. Bởi các tổ chức kinh doanh xử lý khối lượng giao dịch thẻ hàng năm không giống nhau nên mức độ rủi ro của việc lộ lọt dữ liệu thẻ và các trường hợp mất an toàn dữ liệu thẻ là không giống nhau. Bốn mực độ tuân thủ PCI DSS cho đơn vị chấp nhận thanh toán thẻ đó là:"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "PCI Merchant level 1: Đơn vị chấp nhận thẻ thanh toán với số lượng giao dịch một năm trên 6 triệu giao dịch",
+                        "PCI Merchant level 2: Đơn vị chấp nhận thẻ thanh toán với số lượng giao dịch hàng năm từ 1 triệu giao dịch tới 6 triệu giao dịch",
+                        "PCI Merchant level 3: Đơn vị chấp nhận thẻ thanh toán với số lượng giao dịch hàng năm từ 20,000 giao dịch tới 1 triệu giao dịch",
+                        "PCI Merchant level 4: Đơn vị chấp nhận thẻ thanh toán với số lượng giao dịch hàng năm nhỏ hơn 20,000 giao dịch"
+                    ]
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "4 Mức độ bảo mật ảnh  hưởng như thế nào tới quá trình tuân thủ PCI DSS của Tổ chức"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Nếu tổ chức là PCI Merchant level 1: Tổ chức được yêu cầu đánh giá cấp chứng chỉ hàng năm, do bên thứ ba là đơn vị QSA đánh giá độc lập để xác minh sự tuân thủ và đơn vị đánh giá bảo mật hệ thống mạng (ASV) thực hiện rà quét (scanning) hàng Quý. Tổ chức cần nhận được báo cáo chứng thự tuân thủ hàng năm (AOC) và Báo cáo Tuân thủ (ROC) từ đơn vị đánh giá",
+                        "Nếu tổ chức là PCI Merchant level 2, 3, 4: Tổ chức được yêu cầu đánh giá cấp chứng chỉ hàng năm, do bên thứ ba là đơn vị QSA đánh giá độc lập để xác minh sự tuân thủ và đơn vị đánh giá bảo mật hệ thống mạng (ASV) thực hiện rà quét (scanning) hàng Quý. Tổ chức cần nhận được báo cáo chứng thự tuân thủ hàng năm (AOC) từ đơn vị đánh giá và hoàn thiện báo cáo tự đánh giá tuân thủ (SAQ) do chính tổ chức thực hiện đánh giá"
+                    ]
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Để đạt được tuân thủ PCI DSS"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Dù tổ chức của bạn thuộc mức độ tuân thủ PCI DSS nào, việc duy trì tuân thủ PCI DSS là ưu tiền hàng đầu đối với tổ chức của bạn. Để đạt được điều đó hãy để Mastercert đánh giá nôi bộ tuân thủ PCI DSS giúp tổ chức của bạn. Mastercert có quy trình đánh giá nội bộ PCI DSS chuyên nghiệp, trực tiếp đánh giá là các Chuyên gia đánh giá nhiều kinh nghiệm trong lĩnh vực bảo mật thông tin, họ là những QSA, Assistant QSA đã tham gia vào rất nhiều các dự án đánh giá PCI DSS cho các tổ chức Ngân hàng, tổ chức trung gian thanh toán, tổ chức cung cấp giải pháp công nghệ thẻ. Hơn nữa Mastercert hỗ trợ đào tạo, tư vấn công nghệ giải giáp, xây dựng hệ thống quy trình tài liệu, hướng dẫn vận hành để giúp các tổ chức hiểu và tiết kiêm nguồn lực khi quyêtd định lấy chứng chỉ PCI DSS"
+                }
+            }
+        ]
+    },
+    
+
+    {
+        "info": {
+            "id": "iso27017-0",
+            "category": "ISO 27017",
+            "title": "Tư vấn trọn gói lấy chứng chỉ ISO 27017",
+            "author": "MasterCert",
+            "date": "",
+            "tag": "ISO 27017",
+            "thumbnail": "assets/images/image-box/services/iso-27017.png",
+            "recent-thumb": "assets/images/image-box/services/iso-27017.png",
+            "latest-thumb": "assets/images/image-box/services/iso-27017.png"
+        },
+        "blog": [
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "Định nghĩa ISO 27017"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "ISO/IEC 27017 là tiêu chuẩn quốc tế triển khai các biện pháp nhằm đảm bảo an toàn thông tin và bảo mật thông tin dành riêng cho các hạ tầng và dịch vụ sử dụng nền tảng công nghệ Cloud (đám mây). Tiêu chuẩn này phối kết hợp với các khuyến nghị triển khai từ tiêu chuẩn ISO/IEC 27002 và do đó hoàn toàn phù hợp khi kết hợp với hệ thống quản lý an toàn thông tin theo ISO/IEC 27001."
+                }
+            },
+            {
+                "tag": "post-title",
+                "content": {
+                    "text": "ISO 27017 giúp gì được cho công ty / tổ chức của bạn?"
+                }
+            },
+            {
+                "tag": "p",
+                "content": {
+                    "text": "Phiên bản cập nhật mới nhất ISO/IEC 27017:2015 hướng dẫn thực hiện 37 biện pháp kiểm soát từ ISO 27002 và 7 biện pháp kiểm soát mới giúp:"
+                }
+            },
+            {
+                "tag": "post-list-quotes",
+                "content": {
+                    "list": [
+                        "Thể hiện được cam kết về bảo mật, an toàn thông tin về hạ tầng và dịch vụ của mình cung cấp đến cho khách hàng",
+                        "Xác định các rủi ro tiềm ẩn và thực hiện các biện pháp xử lý những rủi ro chuyên biệt xảy ra trên nền tảng Cloud",
+                        "Xây dựng các biện pháp kiểm soát cũng như nâng cao bảo mật thông tin dành riêng cho các dịch vụ cung cấp trên nền tảng Cloud"
+                    ]
+                }
+            }
+            
+
         ]
     },
     {
